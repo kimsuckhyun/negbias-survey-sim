@@ -31,6 +31,9 @@ same weight, and reports JS, Rep, and the negative-response bias with cluster-bo
 
 1. Serve the teacher model (Gemma-4-31B-it, Q4_K_M) with llama.cpp and run `SEED=101 bash generation/run_gen5000.sh`
    on each machine (seeds 101, 102, 103). Set `ACL_BASE` to the output directory.
+   The server must be started with a context window of at least 65,536 tokens (the paper used 131,072): the
+   questionnaire stage requests up to 60,000 output tokens, and a smaller context makes the server reject the request.
+   Any OpenAI-compatible server (for example vLLM) can be used; pass its address and model name with `--server` and `--model`.
 2. Merge and verify with `generation/merge_verify.sh` (edit the host names inside), which writes the deduplicated set
    and the balanced 15,000-response subset (7,500 strongly and 7,500 weakly negative).
 3. Build the 5,000 training examples with `generation/resample_groups_1to10_persona_en.py`.
