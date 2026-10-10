@@ -1,0 +1,2617 @@
+[
+ {
+  "q_id": "GUNSAFE_W26",
+  "table_num": 26,
+  "question": "Does having a gun in your household make you feel",
+  "options": [
+   "Safer than you would feel without a gun in your household",
+   "Less safe than you would feel without a gun in your household",
+   "No more or less safe"
+  ],
+  "ordinal": [
+   1.0,
+   2.0,
+   1.5
+  ],
+  "family": "safe",
+  "neg_idx": [
+   1
+  ],
+  "pos_idx": [
+   0
+  ],
+  "neu_idx": [
+   2
+  ],
+  "refusal_rate": 0.0021061330564748
+ },
+ {
+  "q_id": "WORRYD_W26",
+  "table_num": 26,
+  "question": "How much, if at all, do you worry about the following happening to you? Not being able to pay your bills",
+  "options": [
+   "Worry a lot",
+   "Worry a little",
+   "Do not worry at all"
+  ],
+  "ordinal": [
+   1.0,
+   2.0,
+   3.0
+  ],
+  "family": "worry",
+  "neg_idx": [
+   0,
+   1
+  ],
+  "pos_idx": [
+   2
+  ],
+  "neu_idx": [],
+  "refusal_rate": 0.0033815464747322
+ },
+ {
+  "q_id": "WORRYF_W26",
+  "table_num": 26,
+  "question": "How much, if at all, do you worry about the following happening to you? Being the victim of a mass shooting",
+  "options": [
+   "Worry a lot",
+   "Worry a little",
+   "Do not worry at all"
+  ],
+  "ordinal": [
+   1.0,
+   2.0,
+   3.0
+  ],
+  "family": "worry",
+  "neg_idx": [
+   0,
+   1
+  ],
+  "pos_idx": [
+   2
+  ],
+  "neu_idx": [],
+  "refusal_rate": 0.001255436121265
+ },
+ {
+  "q_id": "GROWUPVIOL_W26",
+  "table_num": 26,
+  "question": "How much of a problem was gun violence in the community where you spent the majority of time when you were growing up?",
+  "options": [
+   "A very big problem",
+   "A moderately big problem",
+   "A small problem",
+   "Not a problem at all"
+  ],
+  "ordinal": [
+   1.0,
+   2.0,
+   3.0,
+   4.0
+  ],
+  "family": "problem",
+  "neg_idx": [
+   0,
+   1,
+   2
+  ],
+  "pos_idx": [
+   3
+  ],
+  "neu_idx": [],
+  "refusal_rate": 0.0041012045241551
+ },
+ {
+  "q_id": "WORRYB_W26",
+  "table_num": 26,
+  "question": "How much, if at all, do you worry about the following happening to you? Being the victim of a terrorist attack",
+  "options": [
+   "Worry a lot",
+   "Worry a little",
+   "Do not worry at all"
+  ],
+  "ordinal": [
+   1.0,
+   2.0,
+   3.0
+  ],
+  "family": "worry",
+  "neg_idx": [
+   0,
+   1
+  ],
+  "pos_idx": [
+   2
+  ],
+  "neu_idx": [],
+  "refusal_rate": 0.0008930906718119
+ },
+ {
+  "q_id": "WORRYE_W26",
+  "table_num": 26,
+  "question": "How much, if at all, do you worry about the following happening to you? Being the victim of a violent crime",
+  "options": [
+   "Worry a lot",
+   "Worry a little",
+   "Do not worry at all"
+  ],
+  "ordinal": [
+   1.0,
+   2.0,
+   3.0
+  ],
+  "family": "worry",
+  "neg_idx": [
+   0,
+   1
+  ],
+  "pos_idx": [
+   2
+  ],
+  "neu_idx": [],
+  "refusal_rate": 0.0010560760316844
+ },
+ {
+  "q_id": "GOPDIRCT_W29",
+  "table_num": 29,
+  "question": "Thinking about the future of the Republican Party, would you say that you are",
+  "options": [
+   "Very optimistic",
+   "Somewhat optimistic",
+   "Somewhat pessimistic",
+   "Very pessimistic"
+  ],
+  "ordinal": [
+   1.0,
+   2.0,
+   3.0,
+   4.0
+  ],
+  "family": "pessimis",
+  "neg_idx": [
+   2,
+   3
+  ],
+  "pos_idx": [
+   0,
+   1
+  ],
+  "neu_idx": [],
+  "refusal_rate": 0.0156129446646434
+ },
+ {
+  "q_id": "HOOD_NHISB_W29",
+  "table_num": 29,
+  "question": "How much do you agree or disagree with the following statements about your neighborhood? People in this neighborhood can be trusted",
+  "options": [
+   "Definitely agree",
+   "Somewhat agree",
+   "Somewhat disagree",
+   "Definitely disagree"
+  ],
+  "ordinal": [
+   1.0,
+   2.0,
+   3.0,
+   4.0
+  ],
+  "family": "disagree",
+  "neg_idx": [
+   2,
+   3
+  ],
+  "pos_idx": [
+   0,
+   1
+  ],
+  "neu_idx": [],
+  "refusal_rate": 0.0063861348534777
+ },
+ {
+  "q_id": "WORRYBILL_W29",
+  "table_num": 29,
+  "question": "How worried are you right now about not having enough to pay your normal monthly bills?",
+  "options": [
+   "Very worried",
+   "Moderately worried",
+   "Not too worried",
+   "Not worried at all"
+  ],
+  "ordinal": [
+   1.0,
+   2.0,
+   3.0,
+   4.0
+  ],
+  "family": "worried",
+  "neg_idx": [
+   0,
+   1
+  ],
+  "pos_idx": [
+   2,
+   3
+  ],
+  "neu_idx": [],
+  "refusal_rate": 0.0051370553447926
+ },
+ {
+  "q_id": "GAYMARR2_W32",
+  "table_num": 32,
+  "question": "As you may know, same-sex marriage is now legal in the U.S. Do you think this is a good thing or a bad thing for our society?",
+  "options": [
+   "Very good thing",
+   "Somewhat good thing",
+   "Somewhat bad thing",
+   "Very bad thing"
+  ],
+  "ordinal": [
+   1.0,
+   2.0,
+   3.0,
+   4.0
+  ],
+  "family": "bad",
+  "neg_idx": [
+   2,
+   3
+  ],
+  "pos_idx": [
+   0,
+   1
+  ],
+  "neu_idx": [],
+  "refusal_rate": 0.0228145176936373
+ },
+ {
+  "q_id": "SATLIFED_W32",
+  "table_num": 32,
+  "question": "Please tell us whether you are satisfied or dissatisfied with your current job or career.",
+  "options": [
+   "Very satisfied",
+   "Somewhat satisfied",
+   "Somewhat dissatisfied",
+   "Very dissatisfied"
+  ],
+  "ordinal": [
+   1.0,
+   2.0,
+   3.0,
+   4.0
+  ],
+  "family": "dissatisf",
+  "neg_idx": [
+   2,
+   3
+  ],
+  "pos_idx": [
+   0,
+   1
+  ],
+  "neu_idx": [],
+  "refusal_rate": 0.0085543796450316
+ },
+ {
+  "q_id": "ETHNCMAJ_W32",
+  "table_num": 32,
+  "question": "According to the U.S. Census Bureau, in the next 25 to 30 years, African Americans, Latinos, and people of Asian descent will make up a majority of the population. In general, do you think that this is",
+  "options": [
+   "Good for the country",
+   "Bad for the country",
+   "Neither good nor bad for the country"
+  ],
+  "ordinal": [
+   1.0,
+   2.0,
+   1.5
+  ],
+  "family": "bad",
+  "neg_idx": [
+   1
+  ],
+  "pos_idx": [
+   0
+  ],
+  "neu_idx": [
+   2
+  ],
+  "refusal_rate": 0.0127366026362116
+ },
+ {
+  "q_id": "IMMIMPACT_W32",
+  "table_num": 32,
+  "question": "Thinking about the immigrants who live in your local community, in general, would you say their impact on the community has been",
+  "options": [
+   "Mostly positive",
+   "Mostly negative",
+   "Neither positive nor negative"
+  ],
+  "ordinal": [
+   1.0,
+   2.0,
+   1.5
+  ],
+  "family": "negative",
+  "neg_idx": [
+   1
+  ],
+  "pos_idx": [
+   0
+  ],
+  "neu_idx": [
+   2
+  ],
+  "refusal_rate": 0.0078229173896887
+ },
+ {
+  "q_id": "FUD33B_W34",
+  "table_num": 34,
+  "question": "Even if you are not sure, which is closer to your views? Do you think foods with genetically modified ingredients are generally",
+  "options": [
+   "Better for your health than foods with no genetically modified ingredients",
+   "Worse for your health than foods with no genetically modified ingredients",
+   "Neither better nor worse for your health than foods with no genetically modified ingredients"
+  ],
+  "ordinal": [
+   1.0,
+   2.0,
+   1.5
+  ],
+  "family": "worse",
+  "neg_idx": [
+   0
+  ],
+  "pos_idx": [
+   1
+  ],
+  "neu_idx": [
+   2
+  ],
+  "refusal_rate": 0.0423618072041923
+ },
+ {
+  "q_id": "FUD24_W34",
+  "table_num": 34,
+  "question": "Do you think organic fruits and vegetables are generally",
+  "options": [
+   "Better for one's health than conventionally grown foods",
+   "Worse for one's health than conventionally grown foods",
+   "Neither better nor worse for one's health than conventionally grown foods"
+  ],
+  "ordinal": [
+   1.0,
+   2.0,
+   1.5
+  ],
+  "family": "worse",
+  "neg_idx": [
+   1
+  ],
+  "pos_idx": [
+   0
+  ],
+  "neu_idx": [
+   2
+  ],
+  "refusal_rate": 0.0093805624334179
+ },
+ {
+  "q_id": "EAT5B_W34",
+  "table_num": 34,
+  "question": "How much health risk, if any, does eating meat from animals that have been given antibiotics or hormones have for the average person over the course of their lifetime?",
+  "options": [
+   "A great deal of health risk",
+   "Some health risk",
+   "Not too much health risk",
+   "No health risk at all"
+  ],
+  "ordinal": [
+   1.0,
+   2.0,
+   3.0,
+   4.0
+  ],
+  "family": "risk",
+  "neg_idx": [
+   0,
+   1
+  ],
+  "pos_idx": [
+   2,
+   3
+  ],
+  "neu_idx": [],
+  "refusal_rate": 0.0046761758782777
+ },
+ {
+  "q_id": "EAT5C_W34",
+  "table_num": 34,
+  "question": "How much health risk, if any, does eating food and drinks with artificial coloring have for the average person over the course of their lifetime?",
+  "options": [
+   "A great deal of health risk",
+   "Some health risk",
+   "Not too much health risk",
+   "No health risk at all"
+  ],
+  "ordinal": [
+   1.0,
+   2.0,
+   3.0,
+   4.0
+  ],
+  "family": "risk",
+  "neg_idx": [
+   0,
+   1
+  ],
+  "pos_idx": [
+   2,
+   3
+  ],
+  "neu_idx": [],
+  "refusal_rate": 0.0048368022424479
+ },
+ {
+  "q_id": "EAT5D_W34",
+  "table_num": 34,
+  "question": "How much health risk, if any, does eating food and drinks with artificial preservatives have for the average person over the course of their lifetime?",
+  "options": [
+   "A great deal of health risk",
+   "Some health risk",
+   "Not too much health risk",
+   "No health risk at all"
+  ],
+  "ordinal": [
+   1.0,
+   2.0,
+   3.0,
+   4.0
+  ],
+  "family": "risk",
+  "neg_idx": [
+   0,
+   1
+  ],
+  "pos_idx": [
+   2,
+   3
+  ],
+  "neu_idx": [],
+  "refusal_rate": 0.0049944670105991
+ },
+ {
+  "q_id": "MOREWMN1F2_W36",
+  "table_num": 36,
+  "question": "As you may know, more women are running for U.S. Congress this year than in the past. Do you think this is",
+  "options": [
+   "A good thing",
+   "A bad thing",
+   "Neither a good thing nor a bad thing"
+  ],
+  "ordinal": [
+   1.0,
+   2.0,
+   1.5
+  ],
+  "family": "bad",
+  "neg_idx": [
+   1
+  ],
+  "pos_idx": [
+   0
+  ],
+  "neu_idx": [
+   2
+  ],
+  "refusal_rate": 0.0062788655845214
+ },
+ {
+  "q_id": "WMNPRZ1_W36",
+  "table_num": 36,
+  "question": "Do you think it would be a good thing or a bad thing for the country if a woman was elected president?",
+  "options": [
+   "Very good",
+   "Somewhat good",
+   "Somewhat bad",
+   "Very bad"
+  ],
+  "ordinal": [
+   1.0,
+   2.0,
+   3.0,
+   4.0
+  ],
+  "family": "bad",
+  "neg_idx": [
+   2,
+   3
+  ],
+  "pos_idx": [
+   0,
+   1
+  ],
+  "neu_idx": [],
+  "refusal_rate": 0.0160707056253082
+ },
+ {
+  "q_id": "SOLVPROBb_W41",
+  "table_num": 41,
+  "question": "In the future, what kind of an impact do you think major corporations will have in solving the biggest problems facing the country?",
+  "options": [
+   "A very positive impact",
+   "A somewhat positive impact",
+   "A somewhat negative impact",
+   "A very negative impact"
+  ],
+  "ordinal": [
+   1.0,
+   2.0,
+   3.0,
+   4.0
+  ],
+  "family": "negative",
+  "neg_idx": [
+   2,
+   3
+  ],
+  "pos_idx": [
+   0,
+   1
+  ],
+  "neu_idx": [],
+  "refusal_rate": 0.0152721987271691
+ },
+ {
+  "q_id": "HARASS1F1d_W41",
+  "table_num": 41,
+  "question": "When it comes to sexual harassment and sexual assault in the workplace today, how much of a problem, if at all, would you say women not being believed when they claim that they have experienced sexual harassment or ass is?",
+  "options": [
+   "Major problem",
+   "Minor problem",
+   "Not a problem"
+  ],
+  "ordinal": [
+   1.0,
+   2.0,
+   3.0
+  ],
+  "family": "problem",
+  "neg_idx": [
+   0,
+   1
+  ],
+  "pos_idx": [
+   2
+  ],
+  "neu_idx": [],
+  "refusal_rate": 0.0074777301404536
+ },
+ {
+  "q_id": "SOLVPROBg_W41",
+  "table_num": 41,
+  "question": "In the future, what kind of an impact do you think the military will have in solving the biggest problems facing the country?",
+  "options": [
+   "A very positive impact",
+   "A somewhat positive impact",
+   "A somewhat negative impact",
+   "A very negative impact"
+  ],
+  "ordinal": [
+   1.0,
+   2.0,
+   3.0,
+   4.0
+  ],
+  "family": "negative",
+  "neg_idx": [
+   2,
+   3
+  ],
+  "pos_idx": [
+   0,
+   1
+  ],
+  "neu_idx": [],
+  "refusal_rate": 0.0175991682468249
+ },
+ {
+  "q_id": "SOLVPROBdF1_W41",
+  "table_num": 41,
+  "question": "In the future, what kind of an impact do you think the government in Washington will have in solving the biggest problems facing the country?",
+  "options": [
+   "A very positive impact",
+   "A somewhat positive impact",
+   "A somewhat negative impact",
+   "A very negative impact"
+  ],
+  "ordinal": [
+   1.0,
+   2.0,
+   3.0,
+   4.0
+  ],
+  "family": "negative",
+  "neg_idx": [
+   2,
+   3
+  ],
+  "pos_idx": [
+   0,
+   1
+  ],
+  "neu_idx": [],
+  "refusal_rate": 0.0091385938161221
+ },
+ {
+  "q_id": "HARASS1NOWRKF2d_W41",
+  "table_num": 41,
+  "question": "When it comes to sexual harassment and sexual assault today, how much of a problem, if at all, would you say women not being believed when they claim that they have experienced sexual harassment or assault is?",
+  "options": [
+   "Major problem",
+   "Minor problem",
+   "Not a problem"
+  ],
+  "ordinal": [
+   1.0,
+   2.0,
+   3.0
+  ],
+  "family": "problem",
+  "neg_idx": [
+   0,
+   1
+  ],
+  "pos_idx": [
+   2
+  ],
+  "neu_idx": [],
+  "refusal_rate": 0.0073175625318544
+ },
+ {
+  "q_id": "FTRWORRYc_W41",
+  "table_num": 41,
+  "question": "Still thinking about the future of our country, how worried are you, if at all, about the way the government in Washington works?",
+  "options": [
+   "Very worried",
+   "Fairly worried",
+   "Not too worried",
+   "Not at all worried"
+  ],
+  "ordinal": [
+   1.0,
+   2.0,
+   3.0,
+   4.0
+  ],
+  "family": "fair",
+  "neg_idx": [
+   0
+  ],
+  "pos_idx": [
+   1,
+   2,
+   3
+  ],
+  "neu_idx": [],
+  "refusal_rate": 0.0063684542253293
+ },
+ {
+  "q_id": "SOLVPROBf_W41",
+  "table_num": 41,
+  "question": "In the future, what kind of an impact do you think the news media will have in solving the biggest problems facing the country?",
+  "options": [
+   "A very positive impact",
+   "A somewhat positive impact",
+   "A somewhat negative impact",
+   "A very negative impact"
+  ],
+  "ordinal": [
+   1.0,
+   2.0,
+   3.0,
+   4.0
+  ],
+  "family": "negative",
+  "neg_idx": [
+   2,
+   3
+  ],
+  "pos_idx": [
+   0,
+   1
+  ],
+  "neu_idx": [],
+  "refusal_rate": 0.0139805318387751
+ },
+ {
+  "q_id": "INTRMAR_W41",
+  "table_num": 41,
+  "question": "According to the U.S. Census Bureau, more people of different races are marrying each other these days than in the past. In terms of its impact on the country, do you think this is",
+  "options": [
+   "A very good thing",
+   "A somewhat good thing",
+   "A somewhat bad thing",
+   "A very bad thing",
+   "Neither a good nor bad thing"
+  ],
+  "ordinal": [
+   1.0,
+   2.0,
+   3.0,
+   4.0,
+   2.5
+  ],
+  "family": "bad",
+  "neg_idx": [
+   2,
+   3
+  ],
+  "pos_idx": [
+   0,
+   1
+  ],
+  "neu_idx": [
+   4
+  ],
+  "refusal_rate": 0.0074745723251333
+ },
+ {
+  "q_id": "FTRWORRYe_W41",
+  "table_num": 41,
+  "question": "Still thinking about the future of our country, how worried are you, if at all, about the moral values of Americans?",
+  "options": [
+   "Very worried",
+   "Fairly worried",
+   "Not too worried",
+   "Not at all worried"
+  ],
+  "ordinal": [
+   1.0,
+   2.0,
+   3.0,
+   4.0
+  ],
+  "family": "fair",
+  "neg_idx": [
+   0
+  ],
+  "pos_idx": [
+   1,
+   2,
+   3
+  ],
+  "neu_idx": [],
+  "refusal_rate": 0.0006817327058254
+ },
+ {
+  "q_id": "HARASS1F1b_W41",
+  "table_num": 41,
+  "question": "When it comes to sexual harassment and sexual assault in the workplace today, how much of a problem, if at all, would you say employers firing men who have been accused of sexual harassment or assault before finding ou is?",
+  "options": [
+   "Major problem",
+   "Minor problem",
+   "Not a problem"
+  ],
+  "ordinal": [
+   1.0,
+   2.0,
+   3.0
+  ],
+  "family": "problem",
+  "neg_idx": [
+   0,
+   1
+  ],
+  "pos_idx": [
+   2
+  ],
+  "neu_idx": [],
+  "refusal_rate": 0.0068886931481369
+ },
+ {
+  "q_id": "SOLVPROBc_W41",
+  "table_num": 41,
+  "question": "In the future, what kind of an impact do you think religious groups will have in solving the biggest problems facing the country?",
+  "options": [
+   "A very positive impact",
+   "A somewhat positive impact",
+   "A somewhat negative impact",
+   "A very negative impact"
+  ],
+  "ordinal": [
+   1.0,
+   2.0,
+   3.0,
+   4.0
+  ],
+  "family": "negative",
+  "neg_idx": [
+   2,
+   3
+  ],
+  "pos_idx": [
+   0,
+   1
+  ],
+  "neu_idx": [],
+  "refusal_rate": 0.0182986073448057
+ },
+ {
+  "q_id": "ETHNCMAJMOD_W41",
+  "table_num": 41,
+  "question": "According to the U.S. Census Bureau, by the year 2050, a majority of the population will be made up of blacks, Asians, Hispanics, and other racial minorities. In terms of its impact on the country, do you think this will be",
+  "options": [
+   "A very good thing",
+   "A somewhat good thing",
+   "A somewhat bad thing",
+   "A very bad thing",
+   "Neither a good nor bad thing"
+  ],
+  "ordinal": [
+   1.0,
+   2.0,
+   3.0,
+   4.0,
+   2.5
+  ],
+  "family": "bad",
+  "neg_idx": [
+   2,
+   3
+  ],
+  "pos_idx": [
+   0,
+   1
+  ],
+  "neu_idx": [
+   4
+  ],
+  "refusal_rate": 0.0060816526092035
+ },
+ {
+  "q_id": "SOLVPROBa_W41",
+  "table_num": 41,
+  "question": "In the future, what kind of an impact do you think science and technology will have in solving the biggest problems facing the country?",
+  "options": [
+   "A very positive impact",
+   "A somewhat positive impact",
+   "A somewhat negative impact",
+   "A very negative impact"
+  ],
+  "ordinal": [
+   1.0,
+   2.0,
+   3.0,
+   4.0
+  ],
+  "family": "negative",
+  "neg_idx": [
+   2,
+   3
+  ],
+  "pos_idx": [
+   0,
+   1
+  ],
+  "neu_idx": [],
+  "refusal_rate": 0.0170816139055006
+ },
+ {
+  "q_id": "FTRWORRYf_W41",
+  "table_num": 41,
+  "question": "Still thinking about the future of our country, how worried are you, if at all, about climate change?",
+  "options": [
+   "Very worried",
+   "Fairly worried",
+   "Not too worried",
+   "Not at all worried"
+  ],
+  "ordinal": [
+   1.0,
+   2.0,
+   3.0,
+   4.0
+  ],
+  "family": "fair",
+  "neg_idx": [
+   0
+  ],
+  "pos_idx": [
+   1,
+   2,
+   3
+  ],
+  "neu_idx": [],
+  "refusal_rate": 0.0027721275473508
+ },
+ {
+  "q_id": "SOLVPROBh_W41",
+  "table_num": 41,
+  "question": "In the future, what kind of an impact do you think colleges and universities will have in solving the biggest problems facing the country?",
+  "options": [
+   "A very positive impact",
+   "A somewhat positive impact",
+   "A somewhat negative impact",
+   "A very negative impact"
+  ],
+  "ordinal": [
+   1.0,
+   2.0,
+   3.0,
+   4.0
+  ],
+  "family": "negative",
+  "neg_idx": [
+   2,
+   3
+  ],
+  "pos_idx": [
+   0,
+   1
+  ],
+  "neu_idx": [],
+  "refusal_rate": 0.0127822196187649
+ },
+ {
+  "q_id": "RQ5_F1B_W42",
+  "table_num": 42,
+  "question": "Overall, do you think research misconduct by environmental research scientists is",
+  "options": [
+   "A very big problem",
+   "A moderately big problem",
+   "A small problem",
+   "Not a problem at all"
+  ],
+  "ordinal": [
+   1.0,
+   2.0,
+   3.0,
+   4.0
+  ],
+  "family": "problem",
+  "neg_idx": [
+   0,
+   1,
+   2
+  ],
+  "pos_idx": [
+   3
+  ],
+  "neu_idx": [],
+  "refusal_rate": 0.0149287468415918
+ },
+ {
+  "q_id": "RQ5_F1C_W42",
+  "table_num": 42,
+  "question": "Overall, do you think research misconduct by nutrition research scientists is",
+  "options": [
+   "A very big problem",
+   "A moderately big problem",
+   "A small problem",
+   "Not a problem at all"
+  ],
+  "ordinal": [
+   1.0,
+   2.0,
+   3.0,
+   4.0
+  ],
+  "family": "problem",
+  "neg_idx": [
+   0,
+   1,
+   2
+  ],
+  "pos_idx": [
+   3
+  ],
+  "neu_idx": [],
+  "refusal_rate": 0.0175972084246582
+ },
+ {
+  "q_id": "RQ1_F1B_W42",
+  "table_num": 42,
+  "question": "In general, would you say your view of environmental research scientists is",
+  "options": [
+   "Mostly positive",
+   "Mostly negative",
+   "Neither positive nor negative"
+  ],
+  "ordinal": [
+   1.0,
+   2.0,
+   1.5
+  ],
+  "family": "negative",
+  "neg_idx": [
+   1
+  ],
+  "pos_idx": [
+   0
+  ],
+  "neu_idx": [
+   2
+  ],
+  "refusal_rate": 0.006486589540419
+ },
+ {
+  "q_id": "RQ1_F1C_W42",
+  "table_num": 42,
+  "question": "In general, would you say your view of nutrition research scientists is",
+  "options": [
+   "Mostly positive",
+   "Mostly negative",
+   "Neither positive nor negative"
+  ],
+  "ordinal": [
+   1.0,
+   2.0,
+   1.5
+  ],
+  "family": "negative",
+  "neg_idx": [
+   1
+  ],
+  "pos_idx": [
+   0
+  ],
+  "neu_idx": [
+   2
+  ],
+  "refusal_rate": 0.0027805988647366
+ },
+ {
+  "q_id": "RACESURV47a_W43",
+  "table_num": 43,
+  "question": "For each, please indicate if you, personally, think it is acceptable. A sports team using Native American tribal names or images as mascots",
+  "options": [
+   "Always acceptable",
+   "Sometimes acceptable",
+   "Rarely acceptable",
+   "Never acceptable"
+  ],
+  "ordinal": [
+   1.0,
+   2.0,
+   3.0,
+   4.0
+  ],
+  "family": "acceptab",
+  "neg_idx": [
+   3
+  ],
+  "pos_idx": [
+   0,
+   1,
+   2
+  ],
+  "neu_idx": [],
+  "refusal_rate": 0.2069064854123424
+ },
+ {
+  "q_id": "RACESURV47f_W43",
+  "table_num": 43,
+  "question": "For each, please indicate if you, personally, think it is acceptable. A white person using makeup to darken their skin so they appear to be a different race as part of a Halloween costume",
+  "options": [
+   "Always acceptable",
+   "Sometimes acceptable",
+   "Rarely acceptable",
+   "Never acceptable"
+  ],
+  "ordinal": [
+   1.0,
+   2.0,
+   3.0,
+   4.0
+  ],
+  "family": "acceptab",
+  "neg_idx": [
+   3
+  ],
+  "pos_idx": [
+   0,
+   1,
+   2
+  ],
+  "neu_idx": [],
+  "refusal_rate": 0.1303335054430742
+ },
+ {
+  "q_id": "RACESURV2_W43",
+  "table_num": 43,
+  "question": "The U.S. population is made up of people of many different races and ethnicities. Overall, do you think this is",
+  "options": [
+   "Very good for the country",
+   "Somewhat good for the country",
+   "Somewhat bad for the country",
+   "Very bad for the country",
+   "Neither good nor bad for the country"
+  ],
+  "ordinal": [
+   1.0,
+   2.0,
+   3.0,
+   4.0,
+   2.5
+  ],
+  "family": "bad",
+  "neg_idx": [
+   2,
+   3
+  ],
+  "pos_idx": [
+   0,
+   1
+  ],
+  "neu_idx": [
+   4
+  ],
+  "refusal_rate": 0.0024245016832648
+ },
+ {
+  "q_id": "RACESURV47d_W43",
+  "table_num": 43,
+  "question": "For each, please indicate if you, personally, think it is acceptable. Casting an actor to play a character of a race or ethnicity other than their own",
+  "options": [
+   "Always acceptable",
+   "Sometimes acceptable",
+   "Rarely acceptable",
+   "Never acceptable"
+  ],
+  "ordinal": [
+   1.0,
+   2.0,
+   3.0,
+   4.0
+  ],
+  "family": "acceptab",
+  "neg_idx": [
+   3
+  ],
+  "pos_idx": [
+   0,
+   1,
+   2
+  ],
+  "neu_idx": [],
+  "refusal_rate": 0.146412777594307
+ },
+ {
+  "q_id": "RACESURV15b_W43",
+  "table_num": 43,
+  "question": "Since President Trump was elected, do you think it has become more acceptable or less acceptable for people to express racist or racially insensitive views, or is it about as acceptable as it was before?",
+  "options": [
+   "More acceptable",
+   "Less acceptable",
+   "About as acceptable"
+  ],
+  "ordinal": [
+   1.0,
+   2.0,
+   1.5
+  ],
+  "family": "acceptab",
+  "neg_idx": [
+   1
+  ],
+  "pos_idx": [
+   0
+  ],
+  "neu_idx": [
+   2
+  ],
+  "refusal_rate": 0.0115328974114232
+ },
+ {
+  "q_id": "RACESURV47b_W43",
+  "table_num": 43,
+  "question": "For each, please indicate if you, personally, think it is acceptable. A black person using the n-word",
+  "options": [
+   "Always acceptable",
+   "Sometimes acceptable",
+   "Rarely acceptable",
+   "Never acceptable"
+  ],
+  "ordinal": [
+   1.0,
+   2.0,
+   3.0,
+   4.0
+  ],
+  "family": "acceptab",
+  "neg_idx": [
+   3
+  ],
+  "pos_idx": [
+   0,
+   1,
+   2
+  ],
+  "neu_idx": [],
+  "refusal_rate": 0.1446498324948729
+ },
+ {
+  "q_id": "RACESURV47e_W43",
+  "table_num": 43,
+  "question": "For each, please indicate if you, personally, think it is acceptable. A person wearing traditional dress from a country or culture other than their own as part of a Halloween costume",
+  "options": [
+   "Always acceptable",
+   "Sometimes acceptable",
+   "Rarely acceptable",
+   "Never acceptable"
+  ],
+  "ordinal": [
+   1.0,
+   2.0,
+   3.0,
+   4.0
+  ],
+  "family": "acceptab",
+  "neg_idx": [
+   3
+  ],
+  "pos_idx": [
+   0,
+   1,
+   2
+  ],
+  "neu_idx": [],
+  "refusal_rate": 0.1430918875636126
+ },
+ {
+  "q_id": "NEWSPROBe_W45",
+  "table_num": 45,
+  "question": "How much of a problem is journalists inserting their own views when it comes to how the public stays informed about the basic facts of current issues and events?",
+  "options": [
+   "A very big problem",
+   "A moderately big problem",
+   "A small problem",
+   "Not a problem at all"
+  ],
+  "ordinal": [
+   1.0,
+   2.0,
+   3.0,
+   4.0
+  ],
+  "family": "problem",
+  "neg_idx": [
+   0,
+   1,
+   2
+  ],
+  "pos_idx": [
+   3
+  ],
+  "neu_idx": [],
+  "refusal_rate": 0.0057462416982594
+ },
+ {
+  "q_id": "NEWSPROBd_W45",
+  "table_num": 45,
+  "question": "How much of a problem is too much news to keep up with when it comes to how the public stays informed about the basic facts of current issues and events?",
+  "options": [
+   "A very big problem",
+   "A moderately big problem",
+   "A small problem",
+   "Not a problem at all"
+  ],
+  "ordinal": [
+   1.0,
+   2.0,
+   3.0,
+   4.0
+  ],
+  "family": "problem",
+  "neg_idx": [
+   0,
+   1,
+   2
+  ],
+  "pos_idx": [
+   3
+  ],
+  "neu_idx": [],
+  "refusal_rate": 0.0076075149715519
+ },
+ {
+  "q_id": "PP5e_W49",
+  "table_num": 49,
+  "question": "How confident are you, if at all, that companies will be held accountable by the government if they misuse or compromise your data?",
+  "options": [
+   "Very confident",
+   "Somewhat confident",
+   "Not too confident",
+   "Not confident at all"
+  ],
+  "ordinal": [
+   1.0,
+   2.0,
+   3.0,
+   4.0
+  ],
+  "family": "confident",
+  "neg_idx": [
+   2,
+   3
+  ],
+  "pos_idx": [
+   0,
+   1
+  ],
+  "neu_idx": [],
+  "refusal_rate": 0.0049454307136196
+ },
+ {
+  "q_id": "CONCERNGRPa_W49",
+  "table_num": 49,
+  "question": "How concerned are you, if at all, about how much personal information law enforcement agencies might know about you?",
+  "options": [
+   "Concerned a lot",
+   "Concerned a little",
+   "Not concerned"
+  ],
+  "ordinal": [
+   1.0,
+   2.0,
+   3.0
+  ],
+  "family": "concerned",
+  "neg_idx": [
+   0,
+   1
+  ],
+  "pos_idx": [
+   2
+  ],
+  "neu_idx": [],
+  "refusal_rate": 0.0014151866952212
+ },
+ {
+  "q_id": "CONCERNGRPc_W49",
+  "table_num": 49,
+  "question": "How concerned are you, if at all, about how much personal information your employer might know about you?",
+  "options": [
+   "Concerned a lot",
+   "Concerned a little",
+   "Not concerned"
+  ],
+  "ordinal": [
+   1.0,
+   2.0,
+   3.0
+  ],
+  "family": "concerned",
+  "neg_idx": [
+   0,
+   1
+  ],
+  "pos_idx": [
+   2
+  ],
+  "neu_idx": [],
+  "refusal_rate": 0.0063188820882964
+ },
+ {
+  "q_id": "HOMEASSIST2_W49",
+  "table_num": 49,
+  "question": "How concerned are you, if at all, about how much data your smart speaker collects about you?",
+  "options": [
+   "Very concerned",
+   "Somewhat concerned",
+   "Not too concerned",
+   "Not concerned at all"
+  ],
+  "ordinal": [
+   1.0,
+   2.0,
+   3.0,
+   4.0
+  ],
+  "family": "concerned",
+  "neg_idx": [
+   0,
+   1
+  ],
+  "pos_idx": [
+   2,
+   3
+  ],
+  "neu_idx": [],
+  "refusal_rate": 0.0
+ },
+ {
+  "q_id": "CONCERNCO_W49",
+  "table_num": 49,
+  "question": "How concerned are you, if at all, about how companies are using the data they collect about you?",
+  "options": [
+   "Very concerned",
+   "Somewhat concerned",
+   "Not too concerned",
+   "Not at all concerned"
+  ],
+  "ordinal": [
+   1.0,
+   2.0,
+   3.0,
+   4.0
+  ],
+  "family": "concerned",
+  "neg_idx": [
+   0,
+   1
+  ],
+  "pos_idx": [
+   2,
+   3
+  ],
+  "neu_idx": [],
+  "refusal_rate": 0.0017378050850972
+ },
+ {
+  "q_id": "DATAUSEd_W49",
+  "table_num": 49,
+  "question": "Do you think the following uses of data/information are acceptable or unacceptable? Makers of a fitness tracking app sharing their users' data with medical researchers seeking to better understand the link between exercise and heart disease",
+  "options": [
+   "Acceptable",
+   "Unacceptable"
+  ],
+  "ordinal": [
+   1.0,
+   2.0
+  ],
+  "family": "unacceptab",
+  "neg_idx": [
+   1
+  ],
+  "pos_idx": [
+   0
+  ],
+  "neu_idx": [],
+  "refusal_rate": 0.2329435710149106
+ },
+ {
+  "q_id": "SATLIFEc_W50",
+  "table_num": 50,
+  "question": "Please tell us whether you are satisfied or dissatisfied with your personal financial situation.",
+  "options": [
+   "Very satisfied",
+   "Somewhat satisfied",
+   "Somewhat dissatisfied",
+   "Very dissatisfied"
+  ],
+  "ordinal": [
+   1.0,
+   2.0,
+   3.0,
+   4.0
+  ],
+  "family": "dissatisf",
+  "neg_idx": [
+   2,
+   3
+  ],
+  "pos_idx": [
+   0,
+   1
+  ],
+  "neu_idx": [],
+  "refusal_rate": 0.003051739469524
+ },
+ {
+  "q_id": "FAMSURV6_W50",
+  "table_num": 50,
+  "question": "How do you feel about allowing unmarried couples to enter into legal agreements that would give them the same rights as married couples when it comes to things like health insurance, inheritance or tax benefits?",
+  "options": [
+   "Strongly favor",
+   "Somewhat favor",
+   "Somewhat oppose",
+   "Strongly oppose"
+  ],
+  "ordinal": [
+   1.0,
+   2.0,
+   3.0,
+   4.0
+  ],
+  "family": "oppose",
+  "neg_idx": [
+   2,
+   3
+  ],
+  "pos_idx": [
+   0,
+   1
+  ],
+  "neu_idx": [],
+  "refusal_rate": 0.0063491698384176
+ },
+ {
+  "q_id": "FAMSURV32e_W50",
+  "table_num": 50,
+  "question": "How do you feel about your spouse's/partner's approach to parenting?",
+  "options": [
+   "Very satisfied",
+   "Somewhat satisfied",
+   "Somewhat dissatisfied",
+   "Very dissatisfied"
+  ],
+  "ordinal": [
+   1.0,
+   2.0,
+   3.0,
+   4.0
+  ],
+  "family": "dissatisf",
+  "neg_idx": [
+   2,
+   3
+  ],
+  "pos_idx": [
+   0,
+   1
+  ],
+  "neu_idx": [],
+  "refusal_rate": 0.0064249472411739
+ },
+ {
+  "q_id": "GAP21Q4_d_W82",
+  "table_num": 82,
+  "question": "Do you have a favorable or unfavorable opinion of the European Union",
+  "options": [
+   "Very favorable",
+   "Somewhat favorable",
+   "Somewhat unfavorable",
+   "Very unfavorable"
+  ],
+  "ordinal": [
+   1.0,
+   2.0,
+   3.0,
+   4.0
+  ],
+  "family": "unfavorab",
+  "neg_idx": [
+   2,
+   3
+  ],
+  "pos_idx": [
+   0,
+   1
+  ],
+  "neu_idx": [],
+  "refusal_rate": 0.0369814957802429
+ },
+ {
+  "q_id": "GAP21Q41_W82",
+  "table_num": 82,
+  "question": "Overall, do you think current economic relations between the US and China are very good, somewhat good, somewhat bad or very bad?",
+  "options": [
+   "Very good",
+   "Somewhat good",
+   "Somewhat bad",
+   "Very bad"
+  ],
+  "ordinal": [
+   1.0,
+   2.0,
+   3.0,
+   4.0
+  ],
+  "family": "bad",
+  "neg_idx": [
+   2,
+   3
+  ],
+  "pos_idx": [
+   0,
+   1
+  ],
+  "neu_idx": [],
+  "refusal_rate": 0.0185845883244113
+ },
+ {
+  "q_id": "GAP21Q34_c_W82",
+  "table_num": 82,
+  "question": "Thinking about Joe Biden's ability to handle a number of things, how confident are you that Joe Biden can do make good decisions about the use of military force?",
+  "options": [
+   "Very confident",
+   "Somewhat confident",
+   "Not too confident",
+   "Not at all confident"
+  ],
+  "ordinal": [
+   1.0,
+   2.0,
+   3.0,
+   4.0
+  ],
+  "family": "confident",
+  "neg_idx": [
+   2,
+   3
+  ],
+  "pos_idx": [
+   0,
+   1
+  ],
+  "neu_idx": [],
+  "refusal_rate": 0.0088972297821767
+ },
+ {
+  "q_id": "GAP21Q4_e_W82",
+  "table_num": 82,
+  "question": "Do you have a favorable or unfavorable opinion of the United Nations",
+  "options": [
+   "Very favorable",
+   "Somewhat favorable",
+   "Somewhat unfavorable",
+   "Very unfavorable"
+  ],
+  "ordinal": [
+   1.0,
+   2.0,
+   3.0,
+   4.0
+  ],
+  "family": "unfavorab",
+  "neg_idx": [
+   2,
+   3
+  ],
+  "pos_idx": [
+   0,
+   1
+  ],
+  "neu_idx": [],
+  "refusal_rate": 0.0231436292318501
+ },
+ {
+  "q_id": "GAP21Q4_f_W82",
+  "table_num": 82,
+  "question": "Do you have a favorable or unfavorable opinion of nato, that is, North Atlantic Treaty Organization",
+  "options": [
+   "Very favorable",
+   "Somewhat favorable",
+   "Somewhat unfavorable",
+   "Very unfavorable"
+  ],
+  "ordinal": [
+   1.0,
+   2.0,
+   3.0,
+   4.0
+  ],
+  "family": "unfavorab",
+  "neg_idx": [
+   2,
+   3
+  ],
+  "pos_idx": [
+   0,
+   1
+  ],
+  "neu_idx": [],
+  "refusal_rate": 0.0406729426373679
+ },
+ {
+  "q_id": "GAP21Q26_b_W82",
+  "table_num": 82,
+  "question": "Would you say the United Nations are doing a good or bad job dealing with global climate change?",
+  "options": [
+   "Very good job",
+   "Somewhat good job",
+   "Somewhat bad job",
+   "Very bad job"
+  ],
+  "ordinal": [
+   1.0,
+   2.0,
+   3.0,
+   4.0
+  ],
+  "family": "bad",
+  "neg_idx": [
+   2,
+   3
+  ],
+  "pos_idx": [
+   0,
+   1
+  ],
+  "neu_idx": [],
+  "refusal_rate": 0.05101832352364
+ },
+ {
+  "q_id": "GAP21Q34_e_W82",
+  "table_num": 82,
+  "question": "Thinking about Joe Biden's ability to handle a number of things, how confident are you that Joe Biden can do improve relationships with our allies?",
+  "options": [
+   "Very confident",
+   "Somewhat confident",
+   "Not too confident",
+   "Not at all confident"
+  ],
+  "ordinal": [
+   1.0,
+   2.0,
+   3.0,
+   4.0
+  ],
+  "family": "confident",
+  "neg_idx": [
+   2,
+   3
+  ],
+  "pos_idx": [
+   0,
+   1
+  ],
+  "neu_idx": [],
+  "refusal_rate": 0.0087242468394469
+ },
+ {
+  "q_id": "GAP21Q34_a_W82",
+  "table_num": 82,
+  "question": "Thinking about Joe Biden's ability to handle a number of things, how confident are you that Joe Biden can do make good decisions about international trade?",
+  "options": [
+   "Very confident",
+   "Somewhat confident",
+   "Not too confident",
+   "Not at all confident"
+  ],
+  "ordinal": [
+   1.0,
+   2.0,
+   3.0,
+   4.0
+  ],
+  "family": "confident",
+  "neg_idx": [
+   2,
+   3
+  ],
+  "pos_idx": [
+   0,
+   1
+  ],
+  "neu_idx": [],
+  "refusal_rate": 0.0075344334286041
+ },
+ {
+  "q_id": "GAP21Q7_b_W82",
+  "table_num": 82,
+  "question": "Would you say China has done a good or bad job dealing with the coronavirus outbreak?",
+  "options": [
+   "Very good",
+   "Somewhat good",
+   "Somewhat bad",
+   "Very bad"
+  ],
+  "ordinal": [
+   1.0,
+   2.0,
+   3.0,
+   4.0
+  ],
+  "family": "bad",
+  "neg_idx": [
+   2,
+   3
+  ],
+  "pos_idx": [
+   0,
+   1
+  ],
+  "neu_idx": [],
+  "refusal_rate": 0.0328052471165609
+ },
+ {
+  "q_id": "GAP21Q34_f_W82",
+  "table_num": 82,
+  "question": "Thinking about Joe Biden's ability to handle a number of things, how confident are you that Joe Biden can do deal effectively with China?",
+  "options": [
+   "Very confident",
+   "Somewhat confident",
+   "Not too confident",
+   "Not at all confident"
+  ],
+  "ordinal": [
+   1.0,
+   2.0,
+   3.0,
+   4.0
+  ],
+  "family": "confident",
+  "neg_idx": [
+   2,
+   3
+  ],
+  "pos_idx": [
+   0,
+   1
+  ],
+  "neu_idx": [],
+  "refusal_rate": 0.008640615656809
+ },
+ {
+  "q_id": "GAP21Q26_c_W82",
+  "table_num": 82,
+  "question": "Would you say China is doing a good or bad job dealing with global climate change?",
+  "options": [
+   "Very good job",
+   "Somewhat good job",
+   "Somewhat bad job",
+   "Very bad job"
+  ],
+  "ordinal": [
+   1.0,
+   2.0,
+   3.0,
+   4.0
+  ],
+  "family": "bad",
+  "neg_idx": [
+   2,
+   3
+  ],
+  "pos_idx": [
+   0,
+   1
+  ],
+  "neu_idx": [],
+  "refusal_rate": 0.043995288600242
+ },
+ {
+  "q_id": "GAP21Q4_b_W82",
+  "table_num": 82,
+  "question": "Do you have a favorable or unfavorable opinion of China",
+  "options": [
+   "Very favorable",
+   "Somewhat favorable",
+   "Somewhat unfavorable",
+   "Very unfavorable"
+  ],
+  "ordinal": [
+   1.0,
+   2.0,
+   3.0,
+   4.0
+  ],
+  "family": "unfavorab",
+  "neg_idx": [
+   2,
+   3
+  ],
+  "pos_idx": [
+   0,
+   1
+  ],
+  "neu_idx": [],
+  "refusal_rate": 0.0250369541512683
+ },
+ {
+  "q_id": "GAP21Q34_b_W82",
+  "table_num": 82,
+  "question": "Thinking about Joe Biden's ability to handle a number of things, how confident are you that Joe Biden can do deal effectively with the threat of terrorism?",
+  "options": [
+   "Very confident",
+   "Somewhat confident",
+   "Not too confident",
+   "Not at all confident"
+  ],
+  "ordinal": [
+   1.0,
+   2.0,
+   3.0,
+   4.0
+  ],
+  "family": "confident",
+  "neg_idx": [
+   2,
+   3
+  ],
+  "pos_idx": [
+   0,
+   1
+  ],
+  "neu_idx": [],
+  "refusal_rate": 0.0122968096600398
+ },
+ {
+  "q_id": "GAP21Q7_d_W82",
+  "table_num": 82,
+  "question": "Would you say the World Health Organization, or WHO has done a good or bad job dealing with the coronavirus outbreak?",
+  "options": [
+   "Very good",
+   "Somewhat good",
+   "Somewhat bad",
+   "Very bad"
+  ],
+  "ordinal": [
+   1.0,
+   2.0,
+   3.0,
+   4.0
+  ],
+  "family": "bad",
+  "neg_idx": [
+   2,
+   3
+  ],
+  "pos_idx": [
+   0,
+   1
+  ],
+  "neu_idx": [],
+  "refusal_rate": 0.0243440477646855
+ },
+ {
+  "q_id": "GAP21Q7_a_W82",
+  "table_num": 82,
+  "question": "Would you say the US has done a good or bad job dealing with the coronavirus outbreak?",
+  "options": [
+   "Very good",
+   "Somewhat good",
+   "Somewhat bad",
+   "Very bad"
+  ],
+  "ordinal": [
+   1.0,
+   2.0,
+   3.0,
+   4.0
+  ],
+  "family": "bad",
+  "neg_idx": [
+   2,
+   3
+  ],
+  "pos_idx": [
+   0,
+   1
+  ],
+  "neu_idx": [],
+  "refusal_rate": 0.0058074953953644
+ },
+ {
+  "q_id": "GAP21Q28_W82",
+  "table_num": 82,
+  "question": "How confident are you, if at all, that the actions taken by the international community will significantly reduce the effects of global climate change?",
+  "options": [
+   "Very confident",
+   "Somewhat confident",
+   "Not too confident",
+   "Not at all confident"
+  ],
+  "ordinal": [
+   1.0,
+   2.0,
+   3.0,
+   4.0
+  ],
+  "family": "confident",
+  "neg_idx": [
+   2,
+   3
+  ],
+  "pos_idx": [
+   0,
+   1
+  ],
+  "neu_idx": [],
+  "refusal_rate": 0.0141909126457627
+ },
+ {
+  "q_id": "GAP21Q34_d_W82",
+  "table_num": 82,
+  "question": "Thinking about Joe Biden's ability to handle a number of things, how confident are you that Joe Biden can do deal effectively with global climate change?",
+  "options": [
+   "Very confident",
+   "Somewhat confident",
+   "Not too confident",
+   "Not at all confident"
+  ],
+  "ordinal": [
+   1.0,
+   2.0,
+   3.0,
+   4.0
+  ],
+  "family": "confident",
+  "neg_idx": [
+   2,
+   3
+  ],
+  "pos_idx": [
+   0,
+   1
+  ],
+  "neu_idx": [],
+  "refusal_rate": 0.0114207997099438
+ },
+ {
+  "q_id": "GAP21Q47_W82",
+  "table_num": 82,
+  "question": "When it comes to whether or not to limit Chinese students studying in the US, do you",
+  "options": [
+   "Strongly support limiting Chinese students",
+   "Somewhat support limiting Chinese students",
+   "Somewhat oppose limiting Chinese students",
+   "Strongly oppose limiting Chinese students"
+  ],
+  "ordinal": [
+   1.0,
+   2.0,
+   3.0,
+   4.0
+  ],
+  "family": "oppose",
+  "neg_idx": [
+   2,
+   3
+  ],
+  "pos_idx": [
+   0,
+   1
+  ],
+  "neu_idx": [],
+  "refusal_rate": 0.0200342205760949
+ },
+ {
+  "q_id": "GAP21Q4_c_W82",
+  "table_num": 82,
+  "question": "Do you have a favorable or unfavorable opinion of Germany",
+  "options": [
+   "Very favorable",
+   "Somewhat favorable",
+   "Somewhat unfavorable",
+   "Very unfavorable"
+  ],
+  "ordinal": [
+   1.0,
+   2.0,
+   3.0,
+   4.0
+  ],
+  "family": "unfavorab",
+  "neg_idx": [
+   2,
+   3
+  ],
+  "pos_idx": [
+   0,
+   1
+  ],
+  "neu_idx": [],
+  "refusal_rate": 0.0386320180605061
+ },
+ {
+  "q_id": "GAP21Q32_W82",
+  "table_num": 82,
+  "question": "Now that Joe Biden is president, do you think other countries view the U.S",
+  "options": [
+   "A lot more positively",
+   "A little more positively",
+   "A little more negatively",
+   "A lot more negatively"
+  ],
+  "ordinal": [
+   1.0,
+   2.0,
+   3.0,
+   4.0
+  ],
+  "family": "negative",
+  "neg_idx": [
+   2,
+   3
+  ],
+  "pos_idx": [
+   0,
+   1
+  ],
+  "neu_idx": [],
+  "refusal_rate": 0.0238415120021017
+ },
+ {
+  "q_id": "GAP21Q26_a_W82",
+  "table_num": 82,
+  "question": "Would you say the US is doing a good or bad job dealing with global climate change?",
+  "options": [
+   "Very good job",
+   "Somewhat good job",
+   "Somewhat bad job",
+   "Very bad job"
+  ],
+  "ordinal": [
+   1.0,
+   2.0,
+   3.0,
+   4.0
+  ],
+  "family": "bad",
+  "neg_idx": [
+   2,
+   3
+  ],
+  "pos_idx": [
+   0,
+   1
+  ],
+  "neu_idx": [],
+  "refusal_rate": 0.0203026203120053
+ },
+ {
+  "q_id": "GAP21Q23_W82",
+  "table_num": 82,
+  "question": "In the US, do you think discrimination against people based on their race or ethnicity is a",
+  "options": [
+   "Very serious problem",
+   "Somewhat serious problem",
+   "Not too serious problem",
+   "Not a problem at all"
+  ],
+  "ordinal": [
+   1.0,
+   2.0,
+   3.0,
+   4.0
+  ],
+  "family": "problem",
+  "neg_idx": [
+   0,
+   1
+  ],
+  "pos_idx": [
+   2,
+   3
+  ],
+  "neu_idx": [],
+  "refusal_rate": 0.0068649997900645
+ },
+ {
+  "q_id": "GAP21Q43_g_W82",
+  "table_num": 82,
+  "question": "Please indicate how much of a problem, if at all, the following would be for the US: China's growing technological power",
+  "options": [
+   "Very serious problem",
+   "Somewhat serious problem",
+   "Not too serious of a problem",
+   "Not a problem at all"
+  ],
+  "ordinal": [
+   1.0,
+   2.0,
+   3.0,
+   4.0
+  ],
+  "family": "problem",
+  "neg_idx": [
+   0,
+   1
+  ],
+  "pos_idx": [
+   2,
+   3
+  ],
+  "neu_idx": [],
+  "refusal_rate": 0.0196812882936755
+ },
+ {
+  "q_id": "GAP21Q4_a_W82",
+  "table_num": 82,
+  "question": "Do you have a favorable or unfavorable opinion of the United States",
+  "options": [
+   "Very favorable",
+   "Somewhat favorable",
+   "Somewhat unfavorable",
+   "Very unfavorable"
+  ],
+  "ordinal": [
+   1.0,
+   2.0,
+   3.0,
+   4.0
+  ],
+  "family": "unfavorab",
+  "neg_idx": [
+   2,
+   3
+  ],
+  "pos_idx": [
+   0,
+   1
+  ],
+  "neu_idx": [],
+  "refusal_rate": 0.0083402492687299
+ },
+ {
+  "q_id": "GAP21Q24_W82",
+  "table_num": 82,
+  "question": "How concerned are you, if at all, that global climate change will harm you personally at some point in your lifetime?",
+  "options": [
+   "Very concerned",
+   "Somewhat concerned",
+   "Not too concerned",
+   "Not at all concerned"
+  ],
+  "ordinal": [
+   1.0,
+   2.0,
+   3.0,
+   4.0
+  ],
+  "family": "concerned",
+  "neg_idx": [
+   0,
+   1
+  ],
+  "pos_idx": [
+   2,
+   3
+  ],
+  "neu_idx": [],
+  "refusal_rate": 0.0107988520347255
+ },
+ {
+  "q_id": "SOCIETY_SSM_W92",
+  "table_num": 92,
+  "question": "Do you think same-sex marriages being legal in the U.S. is generally good or bad for our society?",
+  "options": [
+   "Very good for society",
+   "Somewhat good for society",
+   "Neither good nor bad for society",
+   "Somewhat bad for society",
+   "Very bad for society"
+  ],
+  "ordinal": [
+   1.0,
+   2.0,
+   3.0,
+   4.0,
+   5.0
+  ],
+  "family": "bad",
+  "neg_idx": [
+   3,
+   4
+  ],
+  "pos_idx": [
+   0,
+   1
+  ],
+  "neu_idx": [
+   2
+  ],
+  "refusal_rate": 0.0100745594744629
+ },
+ {
+  "q_id": "SOCIETY_RELG_W92",
+  "table_num": 92,
+  "question": "Do you think a decline in the share of Americans belonging to an organized religion is generally good or bad for our society?",
+  "options": [
+   "Very good for society",
+   "Somewhat good for society",
+   "Neither good nor bad for society",
+   "Somewhat bad for society",
+   "Very bad for society"
+  ],
+  "ordinal": [
+   1.0,
+   2.0,
+   3.0,
+   4.0,
+   5.0
+  ],
+  "family": "bad",
+  "neg_idx": [
+   3,
+   4
+  ],
+  "pos_idx": [
+   0,
+   1
+  ],
+  "neu_idx": [
+   2
+  ],
+  "refusal_rate": 0.0151050774591987
+ },
+ {
+  "q_id": "SOCIETY_TRANS_W92",
+  "table_num": 92,
+  "question": "Do you think greater social acceptance of people who are transgender (people who identify as a gender that is different from the sex they were assigned at birth) is generally good or bad for our society?",
+  "options": [
+   "Very good for society",
+   "Somewhat good for society",
+   "Neither good nor bad for society",
+   "Somewhat bad for society",
+   "Very bad for society"
+  ],
+  "ordinal": [
+   1.0,
+   2.0,
+   3.0,
+   4.0,
+   5.0
+  ],
+  "family": "bad",
+  "neg_idx": [
+   3,
+   4
+  ],
+  "pos_idx": [
+   0,
+   1
+  ],
+  "neu_idx": [
+   2
+  ],
+  "refusal_rate": 0.0131522423522087
+ },
+ {
+  "q_id": "ELECT_CONF3_PRVFR_W92",
+  "table_num": 92,
+  "question": "Still thinking about elections in the country, how confident, if at all, are you that people who are not legally qualified to vote are prevented from casting a ballot",
+  "options": [
+   "Very confident",
+   "Somewhat confident",
+   "Not too confident",
+   "Not at all confident"
+  ],
+  "ordinal": [
+   1.0,
+   2.0,
+   3.0,
+   4.0
+  ],
+  "family": "confident",
+  "neg_idx": [
+   2,
+   3
+  ],
+  "pos_idx": [
+   0,
+   1
+  ],
+  "neu_idx": [],
+  "refusal_rate": 0.0191461071119713
+ },
+ {
+  "q_id": "POLINTOL2_a_W92",
+  "table_num": 92,
+  "question": "In general, how comfortable do you think Republicans in this country are to freely and openly express their political views?",
+  "options": [
+   "Very comfortable",
+   "Somewhat comfortable",
+   "Not too comfortable",
+   "Not at all comfortable"
+  ],
+  "ordinal": [
+   1.0,
+   2.0,
+   3.0,
+   4.0
+  ],
+  "family": "comfortab",
+  "neg_idx": [
+   2,
+   3
+  ],
+  "pos_idx": [
+   0,
+   1
+  ],
+  "neu_idx": [],
+  "refusal_rate": 0.0158116872176967
+ },
+ {
+  "q_id": "FREECOLL_W92",
+  "table_num": 92,
+  "question": "Would you favor or oppose making tuition at public colleges and universities free for all American students?",
+  "options": [
+   "Strongly favor",
+   "Somewhat favor",
+   "Somewhat oppose",
+   "Strongly oppose"
+  ],
+  "ordinal": [
+   1.0,
+   2.0,
+   3.0,
+   4.0
+  ],
+  "family": "oppose",
+  "neg_idx": [
+   2,
+   3
+  ],
+  "pos_idx": [
+   0,
+   1
+  ],
+  "neu_idx": [],
+  "refusal_rate": 0.0044918091040965
+ },
+ {
+  "q_id": "SOCIETY_WHT_W92",
+  "table_num": 92,
+  "question": "Do you think white people declining as a share of the U.S. population is generally good or bad for our society?",
+  "options": [
+   "Very good for society",
+   "Somewhat good for society",
+   "Neither good nor bad for society",
+   "Somewhat bad for society",
+   "Very bad for society"
+  ],
+  "ordinal": [
+   1.0,
+   2.0,
+   3.0,
+   4.0,
+   5.0
+  ],
+  "family": "bad",
+  "neg_idx": [
+   3,
+   4
+  ],
+  "pos_idx": [
+   0,
+   1
+  ],
+  "neu_idx": [
+   2
+  ],
+  "refusal_rate": 0.0139390291609771
+ },
+ {
+  "q_id": "UNIMMIGCOMM_W92",
+  "table_num": 92,
+  "question": "When it comes to people who have immigrated to the U.S illegally, do you think they generally make the communities they live in",
+  "options": [
+   "A lot better",
+   "A little better",
+   "A little worse",
+   "A lot worse"
+  ],
+  "ordinal": [
+   1.0,
+   2.0,
+   3.0,
+   4.0
+  ],
+  "family": "worse",
+  "neg_idx": [
+   2,
+   3
+  ],
+  "pos_idx": [
+   0,
+   1
+  ],
+  "neu_idx": [],
+  "refusal_rate": 0.0425271496681126
+ },
+ {
+  "q_id": "BILLION_W92",
+  "table_num": 92,
+  "question": "Do you think the fact that there are some people in this country who have personal fortunes of a billion dollars or more is",
+  "options": [
+   "A good thing for the country",
+   "A bad thing for the country",
+   "Neither a good thing or a bad thing"
+  ],
+  "ordinal": [
+   1.0,
+   2.0,
+   1.5
+  ],
+  "family": "bad",
+  "neg_idx": [
+   1
+  ],
+  "pos_idx": [
+   0
+  ],
+  "neu_idx": [
+   2
+  ],
+  "refusal_rate": 0.0092367392917598
+ },
+ {
+  "q_id": "ELECT_CONF3_PRVSUP_W92",
+  "table_num": 92,
+  "question": "Still thinking about elections in the country, how confident, if at all, are you that people who are legally qualified and want to vote are able to cast a ballot",
+  "options": [
+   "Very confident",
+   "Somewhat confident",
+   "Not too confident",
+   "Not at all confident"
+  ],
+  "ordinal": [
+   1.0,
+   2.0,
+   3.0,
+   4.0
+  ],
+  "family": "confident",
+  "neg_idx": [
+   2,
+   3
+  ],
+  "pos_idx": [
+   0,
+   1
+  ],
+  "neu_idx": [],
+  "refusal_rate": 0.0185651566958799
+ },
+ {
+  "q_id": "SOCIETY_GUNS_W92",
+  "table_num": 92,
+  "question": "Do you think an increase in the number of guns in the U.S. is generally good or bad for our society?",
+  "options": [
+   "Very good for society",
+   "Somewhat good for society",
+   "Neither good nor bad for society",
+   "Somewhat bad for society",
+   "Very bad for society"
+  ],
+  "ordinal": [
+   1.0,
+   2.0,
+   3.0,
+   4.0,
+   5.0
+  ],
+  "family": "bad",
+  "neg_idx": [
+   3,
+   4
+  ],
+  "pos_idx": [
+   0,
+   1
+  ],
+  "neu_idx": [
+   2
+  ],
+  "refusal_rate": 0.0067955351194365
+ },
+ {
+  "q_id": "SOCIETY_RHIST_W92",
+  "table_num": 92,
+  "question": "Do you think increased public attention to the history of slavery and racism in America is generally good or bad for our society?",
+  "options": [
+   "Very good for society",
+   "Somewhat good for society",
+   "Neither good nor bad for society",
+   "Somewhat bad for society",
+   "Very bad for society"
+  ],
+  "ordinal": [
+   1.0,
+   2.0,
+   3.0,
+   4.0,
+   5.0
+  ],
+  "family": "bad",
+  "neg_idx": [
+   3,
+   4
+  ],
+  "pos_idx": [
+   0,
+   1
+  ],
+  "neu_idx": [
+   2
+  ],
+  "refusal_rate": 0.0099761790632803
+ }
+]

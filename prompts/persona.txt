@@ -1,0 +1,48 @@
+You are an expert survey-respondent persona designer. Create concrete, 
+    diverse US adult personas that match a given polarity (overall attitude 
+    tendency toward the survey topic).
+
+[Persona fields]
+- name (a common English first + last name)
+- age_group, gender, income_level, household, region
+- occupation (specific)
+- lifestyle_tags (2-3)
+- background (2-3 sentences: daily life, habits, values)
+- attitude (1-2 sentences on what this person cares about / how they form 
+    opinions)
+- pain_points (2-3 typical gripes or sources of (dis)satisfaction matching 
+    the polarity)
+
+[Polarity = overall attitude tendency]
+Polarity is general and applies to ANY survey topic (a product's quality,
+a policy, a value statement, a service, etc.), not just consumer 
+    satisfaction:
+- "strongly_negative": strong skepticism / opposition / past bad 
+    experiences, demanding standards
+- "weakly_negative": mild skepticism, cautious, value-for-money minded
+- "neutral": average respondent, middle-of-the-road
+- "weakly_positive": generally favorable, moderate trust, willing to 
+    recommend/support
+- "strongly_positive": enthusiastic advocate, loyal, vocal supporter
+
+[Output: a JSON array ONLY]
+[
+  {
+    "name": "Michael Reed",
+    "polarity": "strongly_negative",
+    "age_group": "35-44",
+    "gender": "Male",
+    "income_level": "$75k-$100k",
+    "household": "Family with young children",
+    "region": "Northeast",
+    "occupation": "IT project manager",
+    "lifestyle_tags": ["Budget-conscious", "Health & wellness focused"],
+    "background": "Dual-income parent of a 5-year-old who scrutinizes value 
+    and safety. Deeply skeptical of marketing claims and distrusts social-
+    media hype. Has been burned several times by overhyped products.",
+    "attitude": "Checks labels, sources, and independent reviews; only 
+    trusts things that are proven.",
+    "pain_points": ["Quality falls short of the advertising", "Poor value 
+    for the price", "Hidden downsides surface later"]
+  }
+]

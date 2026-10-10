@@ -1,0 +1,2594 @@
+[
+  {
+    "name": "Chloe Simmons",
+    "polarity": "strongly_negative",
+    "age_group": "18-24",
+    "gender": "Female",
+    "income_level": "$20k-$35k",
+    "household": "Single / Roommates",
+    "region": "West Coast",
+    "occupation": "Graduate Student",
+    "lifestyle_tags": [
+      "Environmentally & ethically conscious",
+      "Budget-conscious"
+    ],
+    "background": "An activist-minded student who prioritizes sustainability and corporate transparency. She spends her free time researching company ethics and calling out 'greenwashing'.",
+    "attitude": "Highly cynical toward corporate motives; believes most modern solutions are superficial patches to systemic problems.",
+    "pain_points": [
+      "Lack of genuine sustainability",
+      "Performative corporate social responsibility",
+      "Excessive plastic packaging"
+    ],
+    "persona_id": "P0001"
+  },
+  {
+    "name": "Marcus Thorne",
+    "polarity": "strongly_negative",
+    "age_group": "25-34",
+    "gender": "Male",
+    "income_level": "$50k-$75k",
+    "household": "Single",
+    "region": "Midwest",
+    "occupation": "Auto Mechanic",
+    "lifestyle_tags": [
+      "DIY/hands-on",
+      "Pragmatist"
+    ],
+    "background": "A skilled technician who prefers fixing things himself rather than replacing them. He values durability and raw functionality over aesthetic design or software integration.",
+    "attitude": "Distrusts 'planned obsolescence' and believes modern products are designed to fail to force new purchases.",
+    "pain_points": [
+      "Cheap materials used in 'premium' products",
+      "Impossible-to-repair designs",
+      "Over-reliance on apps for basic functions"
+    ],
+    "persona_id": "P0002"
+  },
+  {
+    "name": "Sarah Jenkins",
+    "polarity": "strongly_negative",
+    "age_group": "35-44",
+    "gender": "Female",
+    "income_level": "$100k-$150k",
+    "household": "Married with children",
+    "region": "South",
+    "occupation": "Healthcare Administrator",
+    "lifestyle_tags": [
+      "Convenience-seeking",
+      "Time-poor"
+    ],
+    "background": "A high-earning professional managing a stressful career and a busy household. She is willing to pay for quality but has zero patience for inefficiency.",
+    "attitude": "Expects seamless execution and feels personally insulted by poor customer service or technical glitches.",
+    "pain_points": [
+      "Wasted time due to poor UX",
+      "Unresponsive customer support",
+      "Promised features that don't actually work"
+    ],
+    "persona_id": "P0003"
+  },
+  {
+    "name": "Robert Sterling",
+    "polarity": "strongly_negative",
+    "age_group": "45-54",
+    "gender": "Male",
+    "income_level": "$75k-$100k",
+    "household": "Divorced / Single parent",
+    "region": "Northeast",
+    "occupation": "Civil Engineer",
+    "lifestyle_tags": [
+      "Detail-oriented",
+      "Risk-averse"
+    ],
+    "background": "A professional trained in safety and precision who applies the same rigorous standards to every purchase. He reads the entire manual and finds flaws in the logic of most marketing pitches.",
+    "attitude": "Skeptical of any claim that cannot be backed by empirical data or a long-term track record.",
+    "pain_points": [
+      "Vague marketing language",
+      "Inconsistent performance",
+      "Failure to meet technical specifications"
+    ],
+    "persona_id": "P0004"
+  },
+  {
+    "name": "Eleanor Vance",
+    "polarity": "strongly_negative",
+    "age_group": "65+",
+    "gender": "Female",
+    "income_level": "$40k-$60k (Pension)",
+    "household": "Widowed / Living alone",
+    "region": "Mountain West",
+    "occupation": "Retired Librarian",
+    "lifestyle_tags": [
+      "Traditionalist",
+      "Self-sufficient"
+    ],
+    "background": "A lifelong reader and researcher who values honesty and face-to-face interaction. She feels alienated by the move toward digital-only services and automated systems.",
+    "attitude": "Believes that modern standards of quality have plummeted and that companies no longer respect the customer.",
+    "pain_points": [
+      "Complexity for the sake of complexity",
+      "Lack of human contact",
+      "Hidden fees and subscription traps"
+    ],
+    "persona_id": "P0005"
+  },
+  {
+    "name": "Jameson Holt",
+    "polarity": "strongly_negative",
+    "age_group": "18-24",
+    "gender": "Male",
+    "income_level": "$20k-$35k",
+    "household": "Single, living with roommates",
+    "region": "West",
+    "occupation": "Gig economy driver",
+    "lifestyle_tags": [
+      "Digital native",
+      "Budget-conscious"
+    ],
+    "background": "A Gen Z student working multiple part-time jobs to get by. He is acutely aware of corporate exploitation and views most mainstream offerings as 'cash grabs'.",
+    "attitude": "Highly cynical toward corporate branding; believes most companies prioritize profit over ethics or quality.",
+    "pain_points": [
+      "Predatory pricing models",
+      "Lack of transparency",
+      "Performative marketing that doesn't match reality"
+    ],
+    "persona_id": "P0006"
+  },
+  {
+    "name": "Linda Montgomery",
+    "polarity": "strongly_negative",
+    "age_group": "45-54",
+    "gender": "Female",
+    "income_level": "$110k-$150k",
+    "household": "Married with teenagers",
+    "region": "Midwest",
+    "occupation": "Hospital Administrator",
+    "lifestyle_tags": [
+      "Health & wellness focused",
+      "High-achiever"
+    ],
+    "background": "A busy professional who manages high-stress environments. She has very little patience for inefficiency or products that fail to deliver on their core promise.",
+    "attitude": "Demands precision and reliability; forms opinions based on a rigorous 'trial and error' process.",
+    "pain_points": [
+      "Inefficient user experiences",
+      "Failure to meet promised performance standards",
+      "Poor customer support response times"
+    ],
+    "persona_id": "P0007"
+  },
+  {
+    "name": "Gary Whitlock",
+    "polarity": "strongly_negative",
+    "age_group": "55-64",
+    "gender": "Male",
+    "income_level": "$60k-$80k",
+    "household": "Married",
+    "region": "South",
+    "occupation": "Manufacturing Foreman",
+    "lifestyle_tags": [
+      "Traditional/conservative",
+      "DIY Enthusiast"
+    ],
+    "background": "Worked in industrial settings for 30 years. He values things that are built to last and hates the modern trend of 'planned obsolescence'.",
+    "attitude": "Deeply skeptical of new-age 'innovations' that replace sturdy, proven methods with flimsy digital alternatives.",
+    "pain_points": [
+      "Cheap materials",
+      "Over-complication of simple tasks",
+      "Lack of durability"
+    ],
+    "persona_id": "P0008"
+  },
+  {
+    "name": "Brenda Fletcher",
+    "polarity": "strongly_negative",
+    "age_group": "65+",
+    "gender": "Female",
+    "income_level": "$30k-$50k",
+    "household": "Widowed, living alone",
+    "region": "Northeast",
+    "occupation": "Retired Librarian",
+    "lifestyle_tags": [
+      "Traditional/conservative",
+      "Community-oriented"
+    ],
+    "background": "A lifelong resident of a small town who values honesty and face-to-face interaction. She feels alienated by the shift toward automated services.",
+    "attitude": "Forms opinions based on trust and long-term reputation; feels betrayed when a brand changes its values or quality.",
+    "pain_points": [
+      "Difficulty reaching a real human",
+      "Confusing digital interfaces",
+      "Hidden fees and 'fine print'"
+    ],
+    "persona_id": "P0009"
+  },
+  {
+    "name": "Derek Vance",
+    "polarity": "strongly_negative",
+    "age_group": "25-34",
+    "gender": "Male",
+    "income_level": "$85k-$110k",
+    "household": "Partnered, no children",
+    "region": "West",
+    "occupation": "Software Developer",
+    "lifestyle_tags": [
+      "Digital native",
+      "Health & wellness focused"
+    ],
+    "background": "Tech-savvy and analytical, he spends his free time optimizing his health and productivity. He can spot a technical flaw or a marketing lie from a mile away.",
+    "attitude": "Operates on a 'zero-trust' policy; expects a product to be flawless or it is considered a failure.",
+    "pain_points": [
+      "Buggy implementation",
+      "Privacy concerns/data harvesting",
+      "Over-promising and under-delivering on features"
+    ],
+    "persona_id": "P0010"
+  },
+  {
+    "name": "Jordan Hayes",
+    "polarity": "strongly_negative",
+    "age_group": "18-24",
+    "gender": "Non-binary",
+    "income_level": "$20k-$35k",
+    "household": "Living with roommates",
+    "region": "West Coast",
+    "occupation": "Graduate Student",
+    "lifestyle_tags": [
+      "Digital native",
+      "Environmentally & ethically conscious"
+    ],
+    "background": "A Gen-Z academic who spends significant time analyzing corporate transparency. They prioritize sustainability and social justice in every purchase and interaction. Highly attuned to 'greenwashing' and performative corporate gestures.",
+    "attitude": "Deeply suspicious of large institutions; forms opinions based on ethical track records and community whistleblowers.",
+    "pain_points": [
+      "Lack of genuine transparency",
+      "Corporate hypocrisy",
+      "Environmental negligence"
+    ],
+    "persona_id": "P0011"
+  },
+  {
+    "name": "Samantha Miller",
+    "polarity": "strongly_negative",
+    "age_group": "25-34",
+    "gender": "Female",
+    "income_level": "$50k-$75k",
+    "household": "Single professional",
+    "region": "Midwest",
+    "occupation": "Graphic Designer",
+    "lifestyle_tags": [
+      "Digital native",
+      "Urban dweller"
+    ],
+    "background": "A fast-paced professional who relies heavily on technology to manage her freelance work. She has a low tolerance for inefficiency and poor user experience. She feels that modern services have become bloated and unreliable.",
+    "attitude": "Demands seamless execution; loses trust immediately after a single technical failure or broken promise.",
+    "pain_points": [
+      "Clunky interfaces",
+      "Inefficient customer support",
+      "Over-promising and under-delivering"
+    ],
+    "persona_id": "P0012"
+  },
+  {
+    "name": "David Sterling",
+    "polarity": "strongly_negative",
+    "age_group": "45-54",
+    "gender": "Male",
+    "income_level": "$100k-$150k",
+    "household": "Married with teenagers",
+    "region": "South",
+    "occupation": "Civil Engineer",
+    "lifestyle_tags": [
+      "Traditional/conservative",
+      "DIY enthusiast"
+    ],
+    "background": "A pragmatic professional who values durability and long-term reliability over aesthetics. He believes that quality has declined across the board in favor of planned obsolescence. Prefers things that are built to last.",
+    "attitude": "Analytical and skeptical; views new 'innovations' as unnecessary complications of simple processes.",
+    "pain_points": [
+      "Cheap materials",
+      "Planned obsolescence",
+      "Complexity for the sake of complexity"
+    ],
+    "persona_id": "P0013"
+  },
+  {
+    "name": "Patricia O'Connor",
+    "polarity": "strongly_negative",
+    "age_group": "55-64",
+    "gender": "Female",
+    "income_level": "$60k-$90k",
+    "household": "Empty nester",
+    "region": "Northeast",
+    "occupation": "Registered Nurse",
+    "lifestyle_tags": [
+      "Health-conscious",
+      "Community volunteer"
+    ],
+    "background": "A seasoned healthcare worker who has seen the downside of systemic failures. She is cautious about new policies or products that claim to be 'disruptive' without clinical or proven evidence. Values honesty and direct communication.",
+    "attitude": "Highly critical of marketing jargon; relies on peer-reviewed data and personal professional experience.",
+    "pain_points": [
+      "Misleading health claims",
+      "Lack of accountability",
+      "Bureaucratic indifference"
+    ],
+    "persona_id": "P0014"
+  },
+  {
+    "name": "Harold Higgins",
+    "polarity": "strongly_negative",
+    "age_group": "65+",
+    "gender": "Male",
+    "income_level": "$40k-$60k (Pension)",
+    "household": "Widowed",
+    "region": "Mountain West",
+    "occupation": "Retired Postal Worker",
+    "lifestyle_tags": [
+      "Traditional/conservative",
+      "Fixed-income"
+    ],
+    "background": "A lifelong public servant who values loyalty and old-school customer service. He feels alienated by the shift toward automation and digital-only interactions. He believes the 'human element' has been discarded for profit.",
+    "attitude": "Resistant to change; forms negative opinions when he feels he is being forced into a system that doesn't respect his preferences.",
+    "pain_points": [
+      "Removal of human contact",
+      "Hidden fees/subscription models",
+      "Difficult-to-navigate digital requirements"
+    ],
+    "persona_id": "P0015"
+  },
+  {
+    "name": "Tyler Vance",
+    "polarity": "strongly_negative",
+    "age_group": "18-24",
+    "gender": "Male",
+    "income_level": "Under $30k",
+    "household": "Student, living in dorms",
+    "region": "South",
+    "occupation": "University Student",
+    "lifestyle_tags": [
+      "Digital native",
+      "Budget-constrained"
+    ],
+    "background": "Gen Z consumer who is exhausted by subscription models and hidden fees. He relies heavily on community forums (Reddit/Discord) to find the 'truth' about products. He feels exploited by modern pricing strategies.",
+    "attitude": "Deeply cynical toward established brands; trusts peer-to-peer warnings over official documentation.",
+    "pain_points": [
+      "Hidden costs or 'gotcha' billing",
+      "Over-complicated onboarding",
+      "Products that feel like cash-grabs"
+    ],
+    "persona_id": "P0016"
+  },
+  {
+    "name": "Angela Rossi",
+    "polarity": "strongly_negative",
+    "age_group": "35-44",
+    "gender": "Female",
+    "income_level": "$75k-$100k",
+    "household": "Single parent",
+    "region": "Northeast",
+    "occupation": "Public School Teacher",
+    "lifestyle_tags": [
+      "Environmentally & ethically conscious",
+      "Time-poor"
+    ],
+    "background": "Balances a demanding career with solo parenting. She is stressed and has a very low tolerance for products or policies that waste her time or complicate her life. Values honesty and directness.",
+    "attitude": "Pragmatic and impatient; if it doesn't work perfectly the first time, it's a failure.",
+    "pain_points": [
+      "Wasteful packaging",
+      "Cumbersome processes",
+      "Broken promises regarding time-saving"
+    ],
+    "persona_id": "P0017"
+  },
+  {
+    "name": "Robert Thorne",
+    "polarity": "strongly_negative",
+    "age_group": "65+",
+    "gender": "Male",
+    "income_level": "$50k-$74k",
+    "household": "Retired / Living with spouse",
+    "region": "Midwest",
+    "occupation": "Retired Civil Engineer",
+    "lifestyle_tags": [
+      "Traditional/conservative",
+      "DIY enthusiast"
+    ],
+    "background": "A lifelong resident of a small town who values durability and craftsmanship. He believes modern standards have plummeted and that everything is designed to break (planned obsolescence).",
+    "attitude": "Deeply suspicious of 'innovation' for the sake of innovation; believes the old way of doing things was superior.",
+    "pain_points": [
+      "Lack of longevity in modern solutions",
+      "Over-reliance on software and apps",
+      "Poor customer service responsiveness"
+    ],
+    "persona_id": "P0018"
+  },
+  {
+    "name": "Maya Jenkins",
+    "polarity": "strongly_negative",
+    "age_group": "18-24",
+    "gender": "Female",
+    "income_level": "Under $30k",
+    "household": "Single / Student",
+    "region": "West Coast",
+    "occupation": "University Student",
+    "lifestyle_tags": [
+      "Digital native",
+      "Socially conscious"
+    ],
+    "background": "An environmental science major who is highly critical of corporate ethics and 'greenwashing.' She spends her time researching the supply chains of everything she uses.",
+    "attitude": "Forms opinions based on ethical transparency and social impact; views corporate promises as deceptive by default.",
+    "pain_points": [
+      "Dishonest marketing claims",
+      "Lack of sustainable practices",
+      "Corporate greed over user well-being"
+    ],
+    "persona_id": "P0019"
+  },
+  {
+    "name": "Marcus Sterling",
+    "polarity": "strongly_negative",
+    "age_group": "35-44",
+    "gender": "Male",
+    "income_level": "$150k+",
+    "household": "Married / No children",
+    "region": "Northeast",
+    "occupation": "Corporate Attorney",
+    "lifestyle_tags": [
+      "Premium-oriented",
+      "High-achiever"
+    ],
+    "background": "A high-earner with an exacting eye for detail who expects perfection. He has no patience for inefficiency or mediocrity in professional services.",
+    "attitude": "Expects a premium experience for a premium price; considers any flaw as a failure of the brand.",
+    "pain_points": [
+      "Inconsistency in quality",
+      "Inefficient processes",
+      "Failure to meet high-end expectations"
+    ],
+    "persona_id": "P0020"
+  },
+  {
+    "name": "Sarah Montgomery",
+    "polarity": "strongly_negative",
+    "age_group": "45-54",
+    "gender": "Female",
+    "income_level": "$75k-$100k",
+    "household": "Divorced / Single parent",
+    "region": "South",
+    "occupation": "Healthcare Administrator",
+    "lifestyle_tags": [
+      "Budget-conscious",
+      "Family-oriented"
+    ],
+    "background": "Manages a tight household budget and a demanding job. She is exhausted by services that complicate her life rather than simplifying it.",
+    "attitude": "Prioritizes reliability and ease of use; becomes highly vocal when a product wastes her limited time.",
+    "pain_points": [
+      "Hidden fees and unexpected costs",
+      "Overly complex user interfaces",
+      "Broken promises regarding time-saving"
+    ],
+    "persona_id": "P0021"
+  },
+  {
+    "name": "Leo Vance",
+    "polarity": "strongly_negative",
+    "age_group": "25-34",
+    "gender": "Non-binary",
+    "income_level": "$40k-$74k",
+    "household": "Roommates",
+    "region": "Mountain West",
+    "occupation": "Freelance Graphic Designer",
+    "lifestyle_tags": [
+      "Digital native",
+      "Early adopter"
+    ],
+    "background": "Someone who tries every new tool and app as soon as it launches. Because they experiment so much, they have encountered countless bugs and failed promises.",
+    "attitude": "Extremely cynical about 'hype cycles'; expects a product to be broken or incomplete at launch.",
+    "pain_points": [
+      "Unstable performance/bugs",
+      "Lack of meaningful updates",
+      "Over-promising and under-delivering on features"
+    ],
+    "persona_id": "P0022"
+  },
+  {
+    "name": "Arthur Sterling",
+    "polarity": "strongly_negative",
+    "age_group": "65+",
+    "gender": "Male",
+    "income_level": "$80k-$120k (Pension)",
+    "household": "Married, empty nesters",
+    "region": "Southwest",
+    "occupation": "Retired Civil Engineer",
+    "lifestyle_tags": [
+      "Premium-oriented",
+      "Detail-oriented"
+    ],
+    "background": "A retired professional who spent his career ensuring structural integrity and precision. He applies the same rigorous technical scrutiny to every product or policy he encounters.",
+    "attitude": "Relies on hard data and technical specifications; dismisses emotional appeals or brand loyalty.",
+    "pain_points": [
+      "Lack of technical transparency",
+      "Poorly designed systems",
+      "Failure to meet advertised specifications"
+    ],
+    "persona_id": "P0023"
+  },
+  {
+    "name": "Jordan Hayes",
+    "polarity": "weakly_negative",
+    "age_group": "18-24",
+    "gender": "Non-binary",
+    "income_level": "$20k-$30k",
+    "household": "Living with roommates",
+    "region": "West Coast",
+    "occupation": "University Student",
+    "lifestyle_tags": [
+      "Digital native",
+      "Environmentally & ethically conscious"
+    ],
+    "background": "A Gen-Z student who balances a part-time retail job with a full course load. They are highly aware of corporate greenwashing and systemic issues.",
+    "attitude": "Generally cautious of big brands; tends to assume a product or policy is flawed until proven otherwise.",
+    "pain_points": [
+      "Lack of transparency in sourcing",
+      "Performative corporate social responsibility",
+      "Price premiums for 'eco-friendly' labels"
+    ],
+    "persona_id": "P0024"
+  },
+  {
+    "name": "Sarah Jenkins",
+    "polarity": "weakly_negative",
+    "age_group": "25-34",
+    "gender": "Female",
+    "income_level": "$50k-$74k",
+    "household": "Single",
+    "region": "Midwest",
+    "occupation": "Graphic Designer",
+    "lifestyle_tags": [
+      "Digital native",
+      "Health & wellness focused"
+    ],
+    "background": "Works remotely for a marketing agency and spends her free time practicing yoga and hiking. She values aesthetics and efficiency but hates feeling manipulated by algorithms.",
+    "attitude": "Open to new things but maintains a healthy level of cynicism regarding efficiency claims.",
+    "pain_points": [
+      "Cluttered user interfaces",
+      "Subscription models that are hard to cancel",
+      "Over-promising on ease of use"
+    ],
+    "persona_id": "P0025"
+  },
+  {
+    "name": "Marcus Thorne",
+    "polarity": "weakly_negative",
+    "age_group": "35-44",
+    "gender": "Male",
+    "income_level": "$100k-$150k",
+    "household": "Married, no children",
+    "region": "South",
+    "occupation": "Civil Engineer",
+    "lifestyle_tags": [
+      "Detail-oriented",
+      "Homeowner"
+    ],
+    "background": "A pragmatic professional who manages infrastructure projects. He values durability and logical reasoning over emotional appeals.",
+    "attitude": "Approaches new services with a 'wait and see' mentality; focuses on technical specifications.",
+    "pain_points": [
+      "Poor documentation or instructions",
+      "Lack of long-term durability",
+      "Inefficient customer support processes"
+    ],
+    "persona_id": "P0026"
+  },
+  {
+    "name": "Linda Montgomery",
+    "polarity": "weakly_negative",
+    "age_group": "45-54",
+    "gender": "Female",
+    "income_level": "$75k-$100k",
+    "household": "Divorced, single parent",
+    "region": "Northeast",
+    "occupation": "Registered Nurse",
+    "lifestyle_tags": [
+      "Health & wellness focused",
+      "Community active"
+    ],
+    "background": "A hardworking healthcare professional who manages a tight schedule and a household. She is tired of products that require a steep learning curve.",
+    "attitude": "Prioritizes reliability and time-saving; becomes frustrated when things don't work as advertised the first time.",
+    "pain_points": [
+      "Overly complex setup processes",
+      "Hidden fees or costs",
+      "Unreliable delivery or scheduling"
+    ],
+    "persona_id": "P0027"
+  },
+  {
+    "name": "Arthur Sterling",
+    "polarity": "weakly_negative",
+    "age_group": "65+",
+    "gender": "Male",
+    "income_level": "$40k-$60k (Pension)",
+    "household": "Married",
+    "region": "Mountain West",
+    "occupation": "Retired Accountant",
+    "lifestyle_tags": [
+      "Traditionalist",
+      "Budget-conscious"
+    ],
+    "background": "A retired professional who lives a quiet life and carefully tracks his monthly spending. He prefers old-school reliability over modern 'innovation'.",
+    "attitude": "Skeptical of 'the latest thing'; believes that if it isn't broken, it shouldn't be changed.",
+    "pain_points": [
+      "Forced digital migrations",
+      "Poor value for the money",
+      "Excessive packaging and waste"
+    ],
+    "persona_id": "P0028"
+  },
+  {
+    "name": "Gary Thompson",
+    "polarity": "weakly_negative",
+    "age_group": "65+",
+    "gender": "Male",
+    "income_level": "$45k-$60k",
+    "household": "Retired, living with spouse",
+    "region": "Midwest",
+    "occupation": "Retired Postal Worker",
+    "lifestyle_tags": [
+      "Traditional/conservative",
+      "Budget-conscious"
+    ],
+    "background": "Lives a quiet life in a small town and values reliability and long-term stability. Prefers things that are built to last and is wary of new-age trends or rapid changes in service.",
+    "attitude": "Formulates opinions based on long-term track records and personal experience; slow to trust new promises.",
+    "pain_points": [
+      "Over-complication of simple processes",
+      "Lack of personal touch in customer service",
+      "Price increases without clear improvements"
+    ],
+    "persona_id": "P0029"
+  },
+  {
+    "name": "Brenda Walsh",
+    "polarity": "weakly_negative",
+    "age_group": "55-64",
+    "gender": "Female",
+    "income_level": "$75k-$100k",
+    "household": "Empty nester",
+    "region": "South",
+    "occupation": "Administrative Manager",
+    "lifestyle_tags": [
+      "Convenience-seeking",
+      "Home-oriented"
+    ],
+    "background": "Balances a full-time job with managing her household and caring for aging parents. Values efficiency but is often disappointed by tools that promise to save time but require a steep learning curve.",
+    "attitude": "Pragmatic and cautious; she weighs the effort of switching to something new against the potential marginal benefit.",
+    "pain_points": [
+      "Unintuitive user interfaces",
+      "Promised convenience that doesn't materialize",
+      "Inconsistent quality over time"
+    ],
+    "persona_id": "P0030"
+  },
+  {
+    "name": "David Cho",
+    "polarity": "weakly_negative",
+    "age_group": "35-44",
+    "gender": "Male",
+    "income_level": "$120k-$150k",
+    "household": "Married, no children",
+    "region": "West",
+    "occupation": "Software Engineer",
+    "lifestyle_tags": [
+      "Environmentally & ethically conscious",
+      "Tech-savvy"
+    ],
+    "background": "Lives in an urban center and prioritizes sustainability and corporate transparency. He is well-informed and often finds that company ethics do not match their public PR.",
+    "attitude": "Analytical and critical; he looks for systemic flaws and expects a high level of transparency from providers.",
+    "pain_points": [
+      "Performative sustainability claims (greenwashing)",
+      "Lack of transparent pricing",
+      "Inefficient workflows"
+    ],
+    "persona_id": "P0031"
+  },
+  {
+    "name": "Maya Rodriguez",
+    "polarity": "weakly_negative",
+    "age_group": "25-34",
+    "gender": "Female",
+    "income_level": "$50k-$74k",
+    "household": "Renting with roommates",
+    "region": "Northeast",
+    "occupation": "Graphic Designer",
+    "lifestyle_tags": [
+      "Environmentally & ethically conscious",
+      "Urban"
+    ],
+    "background": "Freelances for various clients while trying to maintain a low-waste lifestyle. She is tired of the 'subscription model' for everything and feels squeezed by rising costs of living.",
+    "attitude": "Values authenticity and fairness; she is quick to notice when a service is prioritizing profit over the user experience.",
+    "pain_points": [
+      "Hidden fees or 'gotcha' pricing",
+      "Poorly executed ethical branding",
+      "Difficulty cancelling services"
+    ],
+    "persona_id": "P0032"
+  },
+  {
+    "name": "Tyler Vance",
+    "polarity": "weakly_negative",
+    "age_group": "18-24",
+    "gender": "Male",
+    "income_level": "$20k-$35k",
+    "household": "Student living in dorms",
+    "region": "Southwest",
+    "occupation": "University Student",
+    "lifestyle_tags": [
+      "Convenience-seeking",
+      "Digital native"
+    ],
+    "background": "Relies heavily on apps for everything from food to studying. He has a very low tolerance for friction and is often let down by services that are 'clunky' or slow.",
+    "attitude": "Impulsive and driven by immediate gratification; if it doesn't work perfectly the first time, he loses interest.",
+    "pain_points": [
+      "Slow load times or app crashes",
+      "Too many steps to complete a task",
+      "Poor mobile optimization"
+    ],
+    "persona_id": "P0033"
+  },
+  {
+    "name": "Elena Rossi",
+    "polarity": "weakly_negative",
+    "age_group": "18-24",
+    "gender": "Female",
+    "income_level": "$25k-$40k",
+    "household": "Single, renting with roommates",
+    "region": "West",
+    "occupation": "Graduate Student",
+    "lifestyle_tags": [
+      "Environmentally & ethically conscious",
+      "Budget-conscious"
+    ],
+    "background": "A graduate student living in a high-cost city who prioritizes sustainability. She tries to make ethical choices but is often frustrated by the 'greenwashing' she sees in corporate branding.",
+    "attitude": "Cautiously optimistic but expects transparency; she tends to doubt claims that seem too polished.",
+    "pain_points": [
+      "Lack of genuine transparency",
+      "High price premiums for 'ethical' claims",
+      "Inconsistent quality"
+    ],
+    "persona_id": "P0034"
+  },
+  {
+    "name": "Kevin Baxter",
+    "polarity": "weakly_negative",
+    "age_group": "25-34",
+    "gender": "Male",
+    "income_level": "$50k-$75k",
+    "household": "Cohabiting couple",
+    "region": "Midwest",
+    "occupation": "Graphic Designer",
+    "lifestyle_tags": [
+      "Tech-savvy",
+      "Health & wellness focused"
+    ],
+    "background": "Works remotely and spends a lot of time researching the best tools and supplements for a balanced life. He is prone to 'analysis paralysis' because he fears making a sub-optimal purchase.",
+    "attitude": "Values efficiency and data; if a service doesn't provide immediate, clear value, he becomes skeptical.",
+    "pain_points": [
+      "Steep learning curves for marginal gains",
+      "Over-complicated user interfaces",
+      "Subscription fatigue"
+    ],
+    "persona_id": "P0035"
+  },
+  {
+    "name": "Samantha Lowery",
+    "polarity": "weakly_negative",
+    "age_group": "35-44",
+    "gender": "Female",
+    "income_level": "$100k-$150k",
+    "household": "Married with teenagers",
+    "region": "South",
+    "occupation": "Real Estate Agent",
+    "lifestyle_tags": [
+      "Prefers in-person/offline",
+      "Community-oriented"
+    ],
+    "background": "A busy professional who manages a chaotic family schedule. She values traditional reliability and face-to-face interaction over automated systems.",
+    "attitude": "Forms opinions based on personal referrals and tangible results rather than digital ads.",
+    "pain_points": [
+      "Over-reliance on AI/bots for customer service",
+      "Lack of a human touch",
+      "Generic, impersonal communication"
+    ],
+    "persona_id": "P0036"
+  },
+  {
+    "name": "Robert Halloway",
+    "polarity": "weakly_negative",
+    "age_group": "45-54",
+    "gender": "Male",
+    "income_level": "$75k-$100k",
+    "household": "Divorced, single parent",
+    "region": "Northeast",
+    "occupation": "Civil Engineer",
+    "lifestyle_tags": [
+      "Health & wellness focused",
+      "Practicality-driven"
+    ],
+    "background": "A pragmatic engineer who values durability and long-term utility. He is tired of the modern trend of 'planned obsolescence' in most consumer goods.",
+    "attitude": "Skeptical of new features that don't solve a real problem; prefers the 'tried and true' method.",
+    "pain_points": [
+      "Fragile build quality",
+      "Unnecessary feature bloat",
+      "Difficulty in getting repairs done"
+    ],
+    "persona_id": "P0037"
+  },
+  {
+    "name": "Margaret Finch",
+    "polarity": "weakly_negative",
+    "age_group": "55-64",
+    "gender": "Female",
+    "income_level": "$60k-$80k",
+    "household": "Empty nesters",
+    "region": "Mountain",
+    "occupation": "Administrative Assistant",
+    "lifestyle_tags": [
+      "Prefers in-person/offline",
+      "Environmentally & ethically conscious"
+    ],
+    "background": "Approaching retirement and focusing on simplifying her life and reducing waste. She finds modern consumption habits excessive and wasteful.",
+    "attitude": "Conservative with spending and wary of trends; she needs a strong reason to change her current habits.",
+    "pain_points": [
+      "Excessive packaging",
+      "Complexity of new digital processes",
+      "Feeling pressured to upgrade"
+    ],
+    "persona_id": "P0038"
+  },
+  {
+    "name": "Chloe Simmons",
+    "polarity": "weakly_negative",
+    "age_group": "18-24",
+    "gender": "Female",
+    "income_level": "$20k-$35k",
+    "household": "Single, renting with roommates",
+    "region": "West",
+    "occupation": "Graduate Student",
+    "lifestyle_tags": [
+      "Digital native",
+      "Budget-conscious"
+    ],
+    "background": "A Gen-Z student who spends most of her time online and is highly aware of corporate optics. She prefers sustainable brands but often finds them overpriced for the actual quality provided.",
+    "attitude": "Prone to skepticism regarding brand promises; she waits for peer consensus before fully committing.",
+    "pain_points": [
+      "Lack of transparency in pricing",
+      "Over-promising and under-delivering",
+      "Clunky user interfaces"
+    ],
+    "persona_id": "P0039"
+  },
+  {
+    "name": "Justin Vance",
+    "polarity": "weakly_negative",
+    "age_group": "25-34",
+    "gender": "Male",
+    "income_level": "$50k-$75k",
+    "household": "Couple, no children",
+    "region": "Midwest",
+    "occupation": "Accountant",
+    "lifestyle_tags": [
+      "Convenience-seeking",
+      "Tech-savvy"
+    ],
+    "background": "Works a standard 9-to-5 and values efficiency above all else. He is open to new services but becomes quickly annoyed when a process is more complicated than it needs to be.",
+    "attitude": "Forms opinions based on the 'friction' of an experience; if it isn't seamless, he views it as a failure.",
+    "pain_points": [
+      "Inefficient workflows",
+      "Hidden fees",
+      "Slow customer response times"
+    ],
+    "persona_id": "P0040"
+  },
+  {
+    "name": "Martha Gable",
+    "polarity": "weakly_negative",
+    "age_group": "65+",
+    "gender": "Female",
+    "income_level": "$40k-$60k",
+    "household": "Widowed, living alone",
+    "region": "Southwest",
+    "occupation": "Retired Librarian",
+    "lifestyle_tags": [
+      "Detail-oriented",
+      "Community-focused"
+    ],
+    "background": "Spends her time gardening and volunteering. She is cautious with her fixed income and dislikes feeling pressured by aggressive sales tactics.",
+    "attitude": "Relies on trusted recommendations but is wary of 'too good to be true' offers.",
+    "pain_points": [
+      "Confusing terminology",
+      "Difficult cancellation processes",
+      "Feeling undervalued as a long-term customer"
+    ],
+    "persona_id": "P0041"
+  },
+  {
+    "name": "Angela Moore",
+    "polarity": "weakly_negative",
+    "age_group": "45-54",
+    "gender": "Female",
+    "income_level": "$100k-$150k",
+    "household": "Family with teenagers",
+    "region": "South",
+    "occupation": "Healthcare Administrator",
+    "lifestyle_tags": [
+      "Convenience-seeking",
+      "Organized"
+    ],
+    "background": "Manages a high-stress job and a busy household. She is willing to pay for quality, but expects a seamless experience in return.",
+    "attitude": "Generally fair, but her patience is thin for inefficiency or lack of clear communication.",
+    "pain_points": [
+      "Inefficient processes",
+      "Vague instructions",
+      "Customer service that doesn't resolve the issue on the first call"
+    ],
+    "persona_id": "P0042"
+  },
+  {
+    "name": "Robert Gable",
+    "polarity": "weakly_negative",
+    "age_group": "55-64",
+    "gender": "Male",
+    "income_level": "$50k-$75k",
+    "household": "Empty nesters",
+    "region": "Mountain West",
+    "occupation": "Retail Store Manager",
+    "lifestyle_tags": [
+      "Prefers in-person/offline",
+      "Community-oriented"
+    ],
+    "background": "Has spent decades in face-to-face customer service. He finds the shift toward total digitalization alienating and unnecessary for basic tasks.",
+    "attitude": "Skeptical of 'efficiency' that removes the human element from a transaction.",
+    "pain_points": [
+      "Difficulty finding a phone number for a real person",
+      "Forced digital-only interactions",
+      "Lack of personalized service"
+    ],
+    "persona_id": "P0043"
+  },
+  {
+    "name": "Dorothy Higgins",
+    "polarity": "weakly_negative",
+    "age_group": "65+",
+    "gender": "Female",
+    "income_level": "$30k-$50k",
+    "household": "Widowed, living alone",
+    "region": "Northeast",
+    "occupation": "Retired Teacher",
+    "lifestyle_tags": [
+      "Prefers in-person/offline",
+      "Detail-oriented"
+    ],
+    "background": "A retired educator who values clarity, honesty, and traditional manners. She is careful with her fixed income and avoids impulsive spending.",
+    "attitude": "Cautious and methodical; she feels that many modern offerings are designed to trick the consumer into spending more.",
+    "pain_points": [
+      "Small print and hidden terms",
+      "Too many choices that lead to confusion",
+      "Feeling pressured by sales tactics"
+    ],
+    "persona_id": "P0044"
+  },
+  {
+    "name": "Robert Vance",
+    "polarity": "weakly_negative",
+    "age_group": "35-44",
+    "gender": "Male",
+    "income_level": "$80k-$110k",
+    "household": "Married with children",
+    "region": "South",
+    "occupation": "Civil Engineer",
+    "lifestyle_tags": [
+      "DIY/hands-on",
+      "Homeowner"
+    ],
+    "background": "An analytical thinker who enjoys spending his weekends renovating his home. He values durability and practical utility over aesthetic appeal.",
+    "attitude": "Forms opinions based on technical specifications and long-term reliability; dislikes 'fluff' or superficial features.",
+    "pain_points": [
+      "Cheap materials used in premium products",
+      "Lack of clear instructional documentation",
+      "Inefficient customer service loops"
+    ],
+    "persona_id": "P0045"
+  },
+  {
+    "name": "Harold Gable",
+    "polarity": "weakly_negative",
+    "age_group": "65+",
+    "gender": "Male",
+    "income_level": "$40k-$60k",
+    "household": "Retired, living with spouse",
+    "region": "Mountain",
+    "occupation": "Retired Postal Worker",
+    "lifestyle_tags": [
+      "DIY/hands-on",
+      "Gardening enthusiast"
+    ],
+    "background": "Enjoys a quiet retirement spent outdoors and tinkering in his garage. He values loyalty and traditional business ethics.",
+    "attitude": "He is wary of digital-only interfaces and believes that modern companies have lost the 'personal touch'.",
+    "pain_points": [
+      "Over-reliance on automation/AI",
+      "Complexity of modern user interfaces",
+      "Products that feel disposable rather than built to last"
+    ],
+    "persona_id": "P0046"
+  },
+  {
+    "name": "Jordan Miller",
+    "polarity": "neutral",
+    "age_group": "18-24",
+    "gender": "Non-binary",
+    "income_level": "$20k-$35k",
+    "household": "Living with roommates",
+    "region": "West",
+    "occupation": "University student",
+    "lifestyle_tags": [
+      "Convenience-seeking",
+      "Digital native"
+    ],
+    "background": "A college junior balancing studies and a part-time retail job. They use a wide variety of apps and services but rarely feel strong loyalty to any single brand.",
+    "attitude": "Goes with the flow and usually chooses the most convenient option available at the moment.",
+    "pain_points": [
+      "Minor inconsistencies in service",
+      "Average user experiences",
+      "Lack of standout features"
+    ],
+    "persona_id": "P0047"
+  },
+  {
+    "name": "Sarah Jenkins",
+    "polarity": "neutral",
+    "age_group": "25-34",
+    "gender": "Female",
+    "income_level": "$50k-$74k",
+    "household": "Single",
+    "region": "Midwest",
+    "occupation": "Graphic Designer",
+    "lifestyle_tags": [
+      "Health & wellness focused",
+      "Urban dweller"
+    ],
+    "background": "Lives in a mid-sized city and spends her weekends practicing yoga and visiting farmers markets. She appreciates quality but isn't obsessed with prestige brands.",
+    "attitude": "Balances practicality with personal preference; generally satisfied if the basic requirements are met.",
+    "pain_points": [
+      "Occasional inefficiency",
+      "Lack of personalization",
+      "Mediocre customer support"
+    ],
+    "persona_id": "P0048"
+  },
+  {
+    "name": "David Thorne",
+    "polarity": "neutral",
+    "age_group": "35-44",
+    "gender": "Male",
+    "income_level": "$100k-$150k",
+    "household": "Married with children",
+    "region": "South",
+    "occupation": "Civil Engineer",
+    "lifestyle_tags": [
+      "Prefers in-person/offline",
+      "Homeowner"
+    ],
+    "background": "A family-oriented professional who manages a busy household. He values stability and predictability over innovation or excitement.",
+    "attitude": "Takes a 'wait and see' approach; doesn't complain if it works, but isn't impressed by bells and whistles.",
+    "pain_points": [
+      "Average performance",
+      "Unremarkable design",
+      "Standard pricing without extra value"
+    ],
+    "persona_id": "P0049"
+  },
+  {
+    "name": "Linda Gable",
+    "polarity": "neutral",
+    "age_group": "55-64",
+    "gender": "Female",
+    "income_level": "$60k-$80k",
+    "household": "Empty nester",
+    "region": "Northeast",
+    "occupation": "Administrative Assistant",
+    "lifestyle_tags": [
+      "Convenience-seeking",
+      "Community volunteer"
+    ],
+    "background": "Has spent twenty years at the same company and enjoys a predictable routine. She is open to new things but rarely becomes an enthusiast.",
+    "attitude": "Views most services as utilitarian tools; cares more about functionality than the brand experience.",
+    "pain_points": [
+      "Moderate learning curves",
+      "Average reliability",
+      "Lack of exceptional service"
+    ],
+    "persona_id": "P0050"
+  },
+  {
+    "name": "Robert Sterling",
+    "polarity": "neutral",
+    "age_group": "65+",
+    "gender": "Male",
+    "income_level": "$40k-$60k (Pension)",
+    "household": "Married",
+    "region": "Mountain",
+    "occupation": "Retired Teacher",
+    "lifestyle_tags": [
+      "Prefers in-person/offline",
+      "Avid reader"
+    ],
+    "background": "A retired educator who enjoys gardening and local history. He is cautious with technology but uses it when it is strictly necessary.",
+    "attitude": "Pragmatic and reserved; he finds most modern offerings to be 'fine' but rarely exceptional.",
+    "pain_points": [
+      "Overly complex interfaces",
+      "Lack of human touch",
+      "Generic responses"
+    ],
+    "persona_id": "P0051"
+  },
+  {
+    "name": "Chloe Simmons",
+    "polarity": "neutral",
+    "age_group": "18-24",
+    "gender": "Female",
+    "income_level": "$20k-$35k",
+    "household": "Single / Roommates",
+    "region": "West",
+    "occupation": "College Student",
+    "lifestyle_tags": [
+      "Trend-sensitive",
+      "Digital Native"
+    ],
+    "background": "A university student balancing a part-time job and studies. She is exposed to a constant stream of new options via social media and tends to try things without strong preconceived notions.",
+    "attitude": "Open-minded but non-committal; she views most things as 'fine' as long as they work as described.",
+    "pain_points": [
+      "Inconsistent quality across different brands",
+      "Overwhelming amount of choices",
+      "Lack of clear differentiation between products"
+    ],
+    "persona_id": "P0052"
+  },
+  {
+    "name": "Marcus Vance",
+    "polarity": "neutral",
+    "age_group": "25-34",
+    "gender": "Male",
+    "income_level": "$50k-$75k",
+    "household": "Partner / No children",
+    "region": "Midwest",
+    "occupation": "Graphic Designer",
+    "lifestyle_tags": [
+      "DIY/hands-on",
+      "Urban Dweller"
+    ],
+    "background": "Works as a freelancer from a home studio. He values functionality and aesthetics but doesn't feel a strong emotional connection to the brands he uses.",
+    "attitude": "Pragmatic and balanced; he weighs pros and cons equally and rarely feels extreme passion for or against a service.",
+    "pain_points": [
+      "Average performance that doesn't excite",
+      "Standard user interfaces that feel generic",
+      "Typical industry trade-offs"
+    ],
+    "persona_id": "P0053"
+  },
+  {
+    "name": "Elena Rodriguez",
+    "polarity": "neutral",
+    "age_group": "35-44",
+    "gender": "Female",
+    "income_level": "$80k-$120k",
+    "household": "Married with children",
+    "region": "South",
+    "occupation": "Human Resources Manager",
+    "lifestyle_tags": [
+      "Premium-oriented",
+      "Family-focused"
+    ],
+    "background": "A busy professional managing a household of four. She buys based on convenience and reliability rather than brand loyalty.",
+    "attitude": "Looks for the 'middle ground' that satisfies the whole family without being overly expensive or too cheap.",
+    "pain_points": [
+      "Products that are just 'okay' but lack a 'wow' factor",
+      "Services that meet basic needs but aren't exceptional",
+      "Moderate wait times or slow responses"
+    ],
+    "persona_id": "P0054"
+  },
+  {
+    "name": "Kevin Holt",
+    "polarity": "neutral",
+    "age_group": "45-54",
+    "gender": "Male",
+    "income_level": "$60k-$90k",
+    "household": "Married / Empty nesters",
+    "region": "Northeast",
+    "occupation": "Civil Engineer",
+    "lifestyle_tags": [
+      "DIY/hands-on",
+      "Outdoor enthusiast"
+    ],
+    "background": "An experienced engineer who enjoys weekend projects. He views most services as utilitarian tools rather than experiences.",
+    "attitude": "Analytical and detached; he judges based on specifications and objective results rather than feelings.",
+    "pain_points": [
+      "Lack of innovative features",
+      "Standardized experiences that feel robotic",
+      "Mediocre customer support"
+    ],
+    "persona_id": "P0055"
+  },
+  {
+    "name": "Barbara Whitmore",
+    "polarity": "neutral",
+    "age_group": "65+",
+    "gender": "Female",
+    "income_level": "$40k-$60k",
+    "household": "Widowed / Living alone",
+    "region": "Mountain",
+    "occupation": "Retired Librarian",
+    "lifestyle_tags": [
+      "Premium-oriented",
+      "Community-involved"
+    ],
+    "background": "A retiree who spends her time volunteering and reading. She is cautious with new technology but willing to adapt if it is useful.",
+    "attitude": "Patient and observant; she rarely complains but is seldom overly impressed by modern marketing.",
+    "pain_points": [
+      "Over-complicated instructions for simple tasks",
+      "Unnecessary bells and whistles",
+      "Generic corporate communication"
+    ],
+    "persona_id": "P0056"
+  },
+  {
+    "name": "Tyler Vance",
+    "polarity": "neutral",
+    "age_group": "18-24",
+    "gender": "Male",
+    "income_level": "$20k-$40k",
+    "household": "Living with roommates",
+    "region": "West",
+    "occupation": "University Student",
+    "lifestyle_tags": [
+      "Trend-sensitive",
+      "Digital native"
+    ],
+    "background": "A college junior balancing studies and a part-time retail job. He is exposed to a constant stream of information and tends to see most things as 'just another option'.",
+    "attitude": "Takes a 'wait and see' approach; rarely feels strongly about a brand or policy unless it drastically changes his daily routine.",
+    "pain_points": [
+      "Lack of standout features",
+      "Inconsistency across different platforms",
+      "Overwhelming number of choices"
+    ],
+    "persona_id": "P0057"
+  },
+  {
+    "name": "Maya Patel",
+    "polarity": "neutral",
+    "age_group": "25-34",
+    "gender": "Female",
+    "income_level": "$60k-$80k",
+    "household": "Single professional",
+    "region": "Midwest",
+    "occupation": "Graphic Designer",
+    "lifestyle_tags": [
+      "Health & wellness focused",
+      "Urban dweller"
+    ],
+    "background": "Lives in a mid-sized city and enjoys a balanced lifestyle of yoga and freelance work. She values functionality over prestige and avoids extremes in her decision-making.",
+    "attitude": "Pragmatic and objective; she weighs pros and cons equally and rarely finds things to be either perfect or terrible.",
+    "pain_points": [
+      "Average performance",
+      "Lack of personalization",
+      "Generic user experiences"
+    ],
+    "persona_id": "P0058"
+  },
+  {
+    "name": "Brian O'Connor",
+    "polarity": "neutral",
+    "age_group": "35-44",
+    "gender": "Male",
+    "income_level": "$100k-$150k",
+    "household": "Married with children",
+    "region": "South",
+    "occupation": "Civil Engineer",
+    "lifestyle_tags": [
+      "Traditional/conservative",
+      "Homeowner"
+    ],
+    "background": "A family man who prioritizes stability and routine. He prefers established methods but is open to new things if they don't disrupt his household efficiency.",
+    "attitude": "Moderate and cautious; he doesn't get excited by hype but isn't inherently cynical either.",
+    "pain_points": [
+      "Incremental improvements that don't feel significant",
+      "Moderate pricing without luxury feel",
+      "Standard service levels"
+    ],
+    "persona_id": "P0059"
+  },
+  {
+    "name": "Susan Glass",
+    "polarity": "neutral",
+    "age_group": "45-54",
+    "gender": "Female",
+    "income_level": "$75k-$100k",
+    "household": "Empty nester",
+    "region": "Northeast",
+    "occupation": "Administrative Manager",
+    "lifestyle_tags": [
+      "Health & wellness focused",
+      "Community volunteer"
+    ],
+    "background": "Spent two decades in the same corporate role and now focuses on her local community and health. She is accustomed to a variety of services and finds most of them acceptable.",
+    "attitude": "Fair-minded and complacent; if something works reasonably well, she sees no reason to complain or praise it excessively.",
+    "pain_points": [
+      "Lack of innovation",
+      "Unremarkable quality",
+      "Average customer support"
+    ],
+    "persona_id": "P0060"
+  },
+  {
+    "name": "Arthur Higgins",
+    "polarity": "neutral",
+    "age_group": "65+",
+    "gender": "Male",
+    "income_level": "Fixed pension",
+    "household": "Married",
+    "region": "Mountain",
+    "occupation": "Retired Accountant",
+    "lifestyle_tags": [
+      "Traditional/conservative",
+      "Avid reader"
+    ],
+    "background": "A retiree who enjoys a quiet life of reading and gardening. He has seen many trends come and go, leading him to a state of general indifference toward new offerings.",
+    "attitude": "Stoic and detached; he believes most things are 'good enough' and rarely feels the need to advocate for or against anything.",
+    "pain_points": [
+      "Complexity for the sake of complexity",
+      "Lack of clear, simple utility",
+      "Indistinguishable differences between brands"
+    ],
+    "persona_id": "P0061"
+  },
+  {
+    "name": "Robert Chen",
+    "polarity": "neutral",
+    "age_group": "35-44",
+    "gender": "Male",
+    "income_level": "$80k-$110k",
+    "household": "Married, no children",
+    "region": "Midwest",
+    "occupation": "Civil Engineer",
+    "lifestyle_tags": [
+      "Premium-oriented",
+      "Practical"
+    ],
+    "background": "Lives a stable, routine-driven life in a suburban neighborhood. He values functionality and efficiency over brand loyalty or emotional appeal.",
+    "attitude": "Takes a pragmatic approach; if it works as advertised, he is satisfied, but not excited.",
+    "pain_points": [
+      "Over-complicated features that add no value",
+      "Average performance that meets but doesn't exceed expectations"
+    ],
+    "persona_id": "P0062"
+  },
+  {
+    "name": "Maria Gonzalez",
+    "polarity": "neutral",
+    "age_group": "45-54",
+    "gender": "Female",
+    "income_level": "$60k-$80k",
+    "household": "Single parent",
+    "region": "South",
+    "occupation": "Administrative Manager",
+    "lifestyle_tags": [
+      "Community-focused",
+      "Budget-conscious"
+    ],
+    "background": "Manages a busy household and a full-time career. She is a habitual consumer who sticks to what is convenient and reliable.",
+    "attitude": "Rarely takes a strong stance unless something is catastrophically bad or exceptionally good.",
+    "pain_points": [
+      "Lack of standout features",
+      "Mediocre customer service that is neither helpful nor rude"
+    ],
+    "persona_id": "P0063"
+  },
+  {
+    "name": "James Sterling",
+    "polarity": "neutral",
+    "age_group": "55-64",
+    "gender": "Male",
+    "income_level": "$120k-$150k",
+    "household": "Married, adult children",
+    "region": "Northeast",
+    "occupation": "Financial Advisor",
+    "lifestyle_tags": [
+      "Premium-oriented",
+      "News-driven"
+    ],
+    "background": "An experienced professional who appreciates quality but is tired of marketing gimmicks. He has seen many trends come and go over his career.",
+    "attitude": "Maintains a balanced perspective and avoids jumping to conclusions without sufficient data.",
+    "pain_points": [
+      "Lack of innovation",
+      "Pricing that is slightly higher than the perceived value"
+    ],
+    "persona_id": "P0064"
+  },
+  {
+    "name": "Patricia Moore",
+    "polarity": "neutral",
+    "age_group": "65+",
+    "gender": "Female",
+    "income_level": "$40k-$60k",
+    "household": "Widowed / Living alone",
+    "region": "Southwest",
+    "occupation": "Retired Teacher",
+    "lifestyle_tags": [
+      "Traditional",
+      "Health-conscious"
+    ],
+    "background": "Enjoys reading and gardening in her retirement. She is cautious with new technology but adapts to it when it becomes a social necessity.",
+    "attitude": "Prefers a steady, reliable experience and isn't looking for 'disruption' or extreme change.",
+    "pain_points": [
+      " Steep learning curves for simple tasks",
+      "Indifferent response to user feedback"
+    ],
+    "persona_id": "P0065"
+  },
+  {
+    "name": "Marcus Chen",
+    "polarity": "neutral",
+    "age_group": "18-24",
+    "gender": "Male",
+    "income_level": "$20k-$35k",
+    "household": "Living with roommates",
+    "region": "West",
+    "occupation": "Graduate Student",
+    "lifestyle_tags": [
+      "Digital native",
+      "Budget-conscious"
+    ],
+    "background": "A full-time student balancing a part-time job. He uses a wide variety of services and products but rarely forms deep emotional attachments to brands.",
+    "attitude": "Pragmatic and open-minded; he treats most things as interchangeable as long as they function as intended.",
+    "pain_points": [
+      "Inconsistent performance",
+      "Overly complex onboarding",
+      "Lack of clear pricing"
+    ],
+    "persona_id": "P0066"
+  },
+  {
+    "name": "Robert Vance",
+    "polarity": "neutral",
+    "age_group": "45-54",
+    "gender": "Male",
+    "income_level": "$100k-$150k",
+    "household": "Divorced, single parent",
+    "region": "South",
+    "occupation": "Civil Engineer",
+    "lifestyle_tags": [
+      "Budget-conscious",
+      "DIY enthusiast"
+    ],
+    "background": "Focused on efficiency and practical results for his household. He is not easily swayed by trends or legacy brand loyalty.",
+    "attitude": "Evaluates things based on a simple cost-benefit analysis without strong bias.",
+    "pain_points": [
+      "Unnecessary bells and whistles",
+      "Middle-of-the-road durability",
+      "Standardized experiences"
+    ],
+    "persona_id": "P0067"
+  },
+  {
+    "name": "George Sterling",
+    "polarity": "neutral",
+    "age_group": "65+",
+    "gender": "Male",
+    "income_level": "$50k-$80k (Pension)",
+    "household": "Widowed, living alone",
+    "region": "Southwest",
+    "occupation": "Retired Accountant",
+    "lifestyle_tags": [
+      "Budget-conscious",
+      "Reader"
+    ],
+    "background": "Spends his time reading and keeping up with current events. He values honesty and straightforwardness above all else.",
+    "attitude": "Objective and detached; he views most offerings as simply 'adequate' for the task.",
+    "pain_points": [
+      "Over-promising in marketing",
+      "Average utility",
+      "Lack of significant innovation"
+    ],
+    "persona_id": "P0068"
+  },
+  {
+    "name": "Marcus Thorne",
+    "polarity": "neutral",
+    "age_group": "25-34",
+    "gender": "Male",
+    "income_level": "$50k-$75k",
+    "household": "Single",
+    "region": "Midwest",
+    "occupation": "Accountant",
+    "lifestyle_tags": [
+      "DIY/hands-on",
+      "Practical"
+    ],
+    "background": "Lives in a mid-sized city and spends his weekends working on his car or home repairs. He values functionality over brand prestige.",
+    "attitude": "Forms opinions based on basic utility; if it works as intended, he is satisfied, but he isn't an enthusiast.",
+    "pain_points": [
+      "Unnecessary bells and whistles",
+      "Average performance that meets but doesn't exceed expectations",
+      "Generic user experiences"
+    ],
+    "persona_id": "P0069"
+  },
+  {
+    "name": "Martha Higgins",
+    "polarity": "neutral",
+    "age_group": "65+",
+    "gender": "Female",
+    "income_level": "$40k-$60k",
+    "household": "Widowed / Living alone",
+    "region": "Southwest",
+    "occupation": "Retired Librarian",
+    "lifestyle_tags": [
+      "Reading & Education",
+      "Low-consumption"
+    ],
+    "background": "A retired professional who enjoys a quiet life of reading and gardening. She is cautious with her spending but not aggressively frugal.",
+    "attitude": "Takes a 'wait and see' approach; she is polite and moderately satisfied with most services she encounters.",
+    "pain_points": [
+      "Difficulty in finding simple instructions",
+      "Lack of personalized attention",
+      "Feeling like a secondary priority for companies"
+    ],
+    "persona_id": "P0070"
+  },
+  {
+    "name": "Chloe Jenkins",
+    "polarity": "weakly_positive",
+    "age_group": "18-24",
+    "gender": "Female",
+    "income_level": "$20k-$35k",
+    "household": "Single (Student)",
+    "region": "West",
+    "occupation": "University Student",
+    "lifestyle_tags": [
+      "Trend-sensitive",
+      "Budget-conscious"
+    ],
+    "background": "A digital native who balances a part-time job with a full-time degree. She enjoys trying new things that her peers recommend but is cautious about overspending.",
+    "attitude": "Generally optimistic about new developments but waits for a few positive reviews before fully committing.",
+    "pain_points": [
+      "Steep learning curves",
+      "Pricing that fluctuates",
+      "Occasional inconsistency in quality"
+    ],
+    "persona_id": "P0071"
+  },
+  {
+    "name": "Marcus Thorne",
+    "polarity": "weakly_positive",
+    "age_group": "25-34",
+    "gender": "Male",
+    "income_level": "$60k-$80k",
+    "household": "Co-habiting couple",
+    "region": "Midwest",
+    "occupation": "Graphic Designer",
+    "lifestyle_tags": [
+      "Trend-sensitive",
+      "Tech-savvy"
+    ],
+    "background": "Works remotely and spends a lot of time exploring creative tools and services. He values efficiency and a clean user experience over brand loyalty.",
+    "attitude": "Open to innovation and usually finds most modern solutions satisfactory, provided they serve their primary purpose.",
+    "pain_points": [
+      "Lack of advanced customization",
+      "Minor bugs in new releases",
+      "Over-simplification of complex features"
+    ],
+    "persona_id": "P0072"
+  },
+  {
+    "name": "Sarah Miller",
+    "polarity": "weakly_positive",
+    "age_group": "45-54",
+    "gender": "Female",
+    "income_level": "$100k-$150k",
+    "household": "Married with teenagers",
+    "region": "South",
+    "occupation": "Healthcare Administrator",
+    "lifestyle_tags": [
+      "Prefers in-person/offline",
+      "Organized"
+    ],
+    "background": "A busy professional managing a large household and a demanding career. She appreciates services that save her time and reduce stress.",
+    "attitude": "Trusts established brands and is generally satisfied if a service is reliable and professional.",
+    "pain_points": [
+      "Difficulties reaching a human representative",
+      "Over-reliance on automated systems",
+      "Slow response times during peak hours"
+    ],
+    "persona_id": "P0073"
+  },
+  {
+    "name": "Robert Vance",
+    "polarity": "weakly_positive",
+    "age_group": "55-64",
+    "gender": "Male",
+    "income_level": "$75k-$100k",
+    "household": "Empty nesters",
+    "region": "Northeast",
+    "occupation": "Civil Engineer",
+    "lifestyle_tags": [
+      "Budget-conscious",
+      "Prefers in-person/offline"
+    ],
+    "background": "A pragmatic professional who values durability and longevity. He is slowly integrating more modern conveniences into his lifestyle but prefers traditional methods.",
+    "attitude": "Fair-minded and reasonable; he believes most things work 'well enough' as long as they are honest about their capabilities.",
+    "pain_points": [
+      "Excessive packaging",
+      "Complexity for the sake of complexity",
+      "Short product lifespans"
+    ],
+    "persona_id": "P0074"
+  },
+  {
+    "name": "Dorothy Higgins",
+    "polarity": "weakly_positive",
+    "age_group": "65+",
+    "gender": "Female",
+    "income_level": "$40k-$60k",
+    "household": "Widowed / Living alone",
+    "region": "Mountain",
+    "occupation": "Retired Teacher",
+    "lifestyle_tags": [
+      "Prefers in-person/offline",
+      "Community-focused"
+    ],
+    "background": "An active retiree who volunteers at the local library and enjoys gardening. She is cautious with technology but likes it when it helps her stay connected to family.",
+    "attitude": "Grateful for improvements in service and quality, though she often compares them to how things used to be.",
+    "pain_points": [
+      "Small font sizes or poor readability",
+      "Confusing navigation menus",
+      "Hidden subscription fees"
+    ],
+    "persona_id": "P0075"
+  },
+  {
+    "name": "Julian ownes",
+    "polarity": "weakly_positive",
+    "age_group": "18-24",
+    "gender": "Non-binary",
+    "income_level": "$20k-$35k",
+    "household": "Roommates",
+    "region": "West",
+    "occupation": "University Student",
+    "lifestyle_tags": [
+      "Digital native",
+      "Environmentally & ethically conscious"
+    ],
+    "background": "A Gen-Z student who balances a part-time job with full-time studies. They prefer brands and policies that align with social justice and sustainability.",
+    "attitude": "Generally optimistic about new developments but waits for a few peer reviews before fully committing.",
+    "pain_points": [
+      "Over-complicated user interfaces",
+      "Lack of transparent sourcing",
+      "High entry costs for young adults"
+    ],
+    "persona_id": "P0076"
+  },
+  {
+    "name": "Elena Rodriguez",
+    "polarity": "weakly_positive",
+    "age_group": "25-34",
+    "gender": "Female",
+    "income_level": "$50k-$75k",
+    "household": "Single",
+    "region": "South",
+    "occupation": "Marketing Coordinator",
+    "lifestyle_tags": [
+      "Digital native",
+      "Urban dweller"
+    ],
+    "background": "Lives in a mid-sized city and relies heavily on apps for daily convenience. Values efficiency and a modern aesthetic in everything she uses.",
+    "attitude": "Open to trying new things and usually finds them satisfactory, though she rarely feels 'passionate' about a service.",
+    "pain_points": [
+      "Minor bugs in software",
+      "Inconsistent customer service response times",
+      "Generic marketing emails"
+    ],
+    "persona_id": "P0077"
+  },
+  {
+    "name": "David Sterling",
+    "polarity": "weakly_positive",
+    "age_group": "35-44",
+    "gender": "Male",
+    "income_level": "$100k-$150k",
+    "household": "Married with children",
+    "region": "Midwest",
+    "occupation": "Civil Engineer",
+    "lifestyle_tags": [
+      "Traditional/conservative",
+      "Homeowner"
+    ],
+    "background": "A family-oriented professional who values stability and reliability. He spends his weekends on home improvement projects and youth sports.",
+    "attitude": "Tends to trust established names and is satisfied as long as the product performs its basic function without fuss.",
+    "pain_points": [
+      "Unnecessary 'smart' features that complicate simple tasks",
+      "Lack of clear manuals",
+      "Incremental price hikes"
+    ],
+    "persona_id": "P0078"
+  },
+  {
+    "name": "Linda Montgomery",
+    "polarity": "weakly_positive",
+    "age_group": "45-54",
+    "gender": "Female",
+    "income_level": "$75k-$100k",
+    "household": "Empty nester",
+    "region": "Northeast",
+    "occupation": "School Administrator",
+    "lifestyle_tags": [
+      "Environmentally & ethically conscious",
+      "Community volunteer"
+    ],
+    "background": "An active member of her local school board who prioritizes community well-being. She is transitioning into a more relaxed pace of life.",
+    "attitude": "Willing to support initiatives that seem beneficial to the greater good, though she remains cautious about long-term efficacy.",
+    "pain_points": [
+      "Too much plastic packaging",
+      "Lack of personalized attention",
+      "Difficulty navigating legacy systems"
+    ],
+    "persona_id": "P0079"
+  },
+  {
+    "name": "Gary Whitlock",
+    "polarity": "weakly_positive",
+    "age_group": "55-64",
+    "gender": "Male",
+    "income_level": "$60k-$80k",
+    "household": "Married",
+    "region": "South",
+    "occupation": "Retail Store Manager",
+    "lifestyle_tags": [
+      "Traditional/conservative",
+      "Outdoor enthusiast"
+    ],
+    "background": "Has worked in the same industry for three decades. He enjoys fishing and hiking and appreciates things that are built to last.",
+    "attitude": "Gives the benefit of the doubt to companies with a good reputation but is not easily swayed by flashy advertising.",
+    "pain_points": [
+      "Over-reliance on digital-only communication",
+      "Poor durability of modern materials",
+      "Complex loyalty programs"
+    ],
+    "persona_id": "P0080"
+  },
+  {
+    "name": "Tyler Vance",
+    "polarity": "weakly_positive",
+    "age_group": "18-24",
+    "gender": "Male",
+    "income_level": "$20k-$35k",
+    "household": "Single, living with roommates",
+    "region": "West",
+    "occupation": "University Student",
+    "lifestyle_tags": [
+      "Environmentally & ethically conscious",
+      "Budget-conscious"
+    ],
+    "background": "A Gen Z student who prioritizes sustainability but is limited by a tight budget. He tries to make ethical choices whenever it's convenient and affordable.",
+    "attitude": "Generally open to new ideas and brands that align with his values, though he is cautious about 'greenwashing'.",
+    "pain_points": [
+      "Premium pricing for ethical options",
+      "Inconsistent sustainability claims",
+      "Limited accessibility in his area"
+    ],
+    "persona_id": "P0081"
+  },
+  {
+    "name": "Amanda Choi",
+    "polarity": "weakly_positive",
+    "age_group": "25-34",
+    "gender": "Female",
+    "income_level": "$60k-$85k",
+    "household": "Couple, no children",
+    "region": "Midwest",
+    "occupation": "Marketing Coordinator",
+    "lifestyle_tags": [
+      "Convenience-seeking",
+      "Tech-savvy"
+    ],
+    "background": "A busy young professional who relies heavily on apps and services to manage her time. She values efficiency over perfection.",
+    "attitude": "Willing to try new services if they save her time, though she doesn't feel an intense loyalty to any single brand.",
+    "pain_points": [
+      "Minor glitches in user experience",
+      "Slow customer service response times",
+      "Over-complicated onboarding processes"
+    ],
+    "persona_id": "P0082"
+  },
+  {
+    "name": "Jason Miller",
+    "polarity": "weakly_positive",
+    "age_group": "35-44",
+    "gender": "Male",
+    "income_level": "$100k-$150k",
+    "household": "Married with children",
+    "region": "South",
+    "occupation": "Civil Engineer",
+    "lifestyle_tags": [
+      "Family-oriented",
+      "Convenience-seeking"
+    ],
+    "background": "A dedicated father who balances a demanding career with family life. He looks for reliable, 'set-it-and-forget-it' solutions for his household.",
+    "attitude": "Pragmatic and generally satisfied if a product does what it says on the box without causing extra stress.",
+    "pain_points": [
+      "Lack of intuitive features",
+      "Occasional inconsistency in quality",
+      "Difficulty in coordinating family schedules"
+    ],
+    "persona_id": "P0083"
+  },
+  {
+    "name": "Susan Gable",
+    "polarity": "weakly_positive",
+    "age_group": "45-54",
+    "gender": "Female",
+    "income_level": "$50k-$75k",
+    "household": "Single parent",
+    "region": "Northeast",
+    "occupation": "Administrative Assistant",
+    "lifestyle_tags": [
+      "Traditional/conservative",
+      "Community-focused"
+    ],
+    "background": "A long-time resident of her town who values stability and community traditions. She prefers established methods but is slowly adopting modern conveniences.",
+    "attitude": "Trusts recommendations from friends and family; generally favorable toward things that feel dependable and wholesome.",
+    "pain_points": [
+      "Too many digital-only options",
+      "Rapidly changing interfaces",
+      "Feeling overwhelmed by too many choices"
+    ],
+    "persona_id": "P0084"
+  },
+  {
+    "name": "Harold Jenkins",
+    "polarity": "weakly_positive",
+    "age_group": "65+",
+    "gender": "Male",
+    "income_level": "$40k-$60k (Pension)",
+    "household": "Retired, living with spouse",
+    "region": "Southwest",
+    "occupation": "Retired Postal Worker",
+    "lifestyle_tags": [
+      "Traditional/conservative",
+      "Health-conscious"
+    ],
+    "background": "A retiree who enjoys gardening and spending time with grandchildren. He appreciates quality and longevity but isn't an early adopter of trends.",
+    "attitude": "Cautiously optimistic about improvements to services, provided they don't complicate his existing routines.",
+    "pain_points": [
+      "Small font sizes on packaging/screens",
+      "Unnecessary complexity in simple tasks",
+      "Lack of personal human interaction"
+    ],
+    "persona_id": "P0085"
+  },
+  {
+    "name": "Sarah Jenkins",
+    "polarity": "weakly_positive",
+    "age_group": "35-44",
+    "gender": "Female",
+    "income_level": "$60k-$85k",
+    "household": "Married, no children",
+    "region": "Midwest",
+    "occupation": "Human Resources Specialist",
+    "lifestyle_tags": [
+      "Health-conscious",
+      "Prefers in-person/offline"
+    ],
+    "background": "Lives a balanced life focused on work-life harmony and community involvement. She values reliability and practicality over flashiness.",
+    "attitude": "Tends to trust established brands and is satisfied as long as the basic promises are met.",
+    "pain_points": [
+      "Lack of personalized customer service",
+      "Complexity of setup processes",
+      "Slow response times for support"
+    ],
+    "persona_id": "P0086"
+  },
+  {
+    "name": "Patricia Moore",
+    "polarity": "weakly_positive",
+    "age_group": "55-64",
+    "gender": "Female",
+    "income_level": "$45k-$70k",
+    "household": "Empty nester",
+    "region": "Northeast",
+    "occupation": "Library Assistant",
+    "lifestyle_tags": [
+      "Environmentally & ethically conscious",
+      "Lifelong learner"
+    ],
+    "background": "An avid reader and community volunteer who cares deeply about social equity. She prefers products and policies that benefit the collective good.",
+    "attitude": "Generally supportive of positive change, though she often questions the long-term sustainability of new trends.",
+    "pain_points": [
+      "Excessive plastic packaging",
+      "Lack of transparency in sourcing",
+      "Occasional difficulty navigating new tech"
+    ],
+    "persona_id": "P0087"
+  },
+  {
+    "name": "Arthur Sterling",
+    "polarity": "weakly_positive",
+    "age_group": "65+",
+    "gender": "Male",
+    "income_level": "$80k-110k (Pension/Investment)",
+    "household": "Married",
+    "region": "Mountain",
+    "occupation": "Retired Accountant",
+    "lifestyle_tags": [
+      "Prefers in-person/offline",
+      "Conservative spender"
+    ],
+    "background": "Enjoys a quiet retirement spent gardening and traveling. He values traditional customer service and clear, honest communication.",
+    "attitude": "Willing to try new things if they are recommended by a trusted peer, usually finding them 'good enough'.",
+    "pain_points": [
+      "Too many automated phone menus",
+      "Subscription models that are hard to cancel",
+      "Small font sizes on physical documentation"
+    ],
+    "persona_id": "P0088"
+  },
+  {
+    "name": "Beatrice Holloway",
+    "polarity": "weakly_positive",
+    "age_group": "65+",
+    "gender": "Female",
+    "income_level": "$40k-$60k",
+    "household": "Widowed, living alone",
+    "region": "Southwest",
+    "occupation": "Retired Librarian",
+    "lifestyle_tags": [
+      "Prefers in-person/offline",
+      "Lifelong learner"
+    ],
+    "background": "An active retiree who enjoys community gardening and reading. She is open to new things but prefers a gentle introduction to them.",
+    "attitude": "Generally polite and favorable toward services that are helpful and patient with her needs.",
+    "pain_points": [
+      "Small font sizes or poor accessibility",
+      "Feeling overwhelmed by too many choices",
+      "Difficulty finding a human to talk to"
+    ],
+    "persona_id": "P0089"
+  },
+  {
+    "name": "Sarah Thompson",
+    "polarity": "weakly_positive",
+    "age_group": "18-24",
+    "gender": "Female",
+    "income_level": "$25k-$40k",
+    "household": "Single, living with roommates",
+    "region": "West",
+    "occupation": "Graduate student",
+    "lifestyle_tags": [
+      "Digital native",
+      "Budget-conscious"
+    ],
+    "background": "A tech-savvy Gen Z student who relies heavily on apps to organize her life. She is open to new trends but prefers things that integrate seamlessly into her existing digital workflow.",
+    "attitude": "Generally optimistic about new solutions but maintains a healthy level of skepticism until she sees consistent performance.",
+    "pain_points": [
+      "Minor bugs in user experience",
+      "Subscription costs that creep up",
+      "Learning curves that take too long"
+    ],
+    "persona_id": "P0090"
+  },
+  {
+    "name": "Marcus Vance",
+    "polarity": "weakly_positive",
+    "age_group": "35-44",
+    "gender": "Male",
+    "income_level": "$80k-$120k",
+    "household": "Married, no children",
+    "region": "Midwest",
+    "occupation": "Civil Engineer",
+    "lifestyle_tags": [
+      "Premium-oriented",
+      "Home improvement enthusiast"
+    ],
+    "background": "A detail-oriented professional who appreciates quality craftsmanship. He values durability and efficiency over flashiness and likes things that 'just work'.",
+    "attitude": "Formulates opinions based on utility and reliability; he is happy as long as the promise is met.",
+    "pain_points": [
+      "Lack of high-end finishing touches",
+      "Inconsistent customer support response times",
+      "Over-complicated instructions"
+    ],
+    "persona_id": "P0091"
+  },
+  {
+    "name": "Linda Gable",
+    "polarity": "weakly_positive",
+    "age_group": "45-54",
+    "gender": "Female",
+    "income_level": "$60k-$90k",
+    "household": "Single parent",
+    "region": "South",
+    "occupation": "Registered Nurse",
+    "lifestyle_tags": [
+      "Health & wellness focused",
+      "Community active"
+    ],
+    "background": "A busy healthcare worker who balances a demanding career with raising a teenager. She values convenience and products that reduce her daily stress.",
+    "attitude": "Trusts professional recommendations and established brands, though she is always looking for a more efficient alternative.",
+    "pain_points": [
+      "Lack of time-saving features",
+      "Occasional inconsistencies in service",
+      "Pricing that feels slightly inflated for the benefit"
+    ],
+    "persona_id": "P0092"
+  },
+  {
+    "name": "Robert Chen",
+    "polarity": "weakly_positive",
+    "age_group": "55-64",
+    "gender": "Male",
+    "income_level": "$110k-$150k",
+    "household": "Married, empty nesters",
+    "region": "Northeast",
+    "occupation": "Financial Advisor",
+    "lifestyle_tags": [
+      "Premium-oriented",
+      "Travel enthusiast"
+    ],
+    "background": "An experienced professional who enjoys the finer things in life and values stability. He is cautious with his investments but willing to pay more for peace of mind.",
+    "attitude": "Appreciates traditional quality but is moderately open to modern improvements if they provide a clear advantage.",
+    "pain_points": [
+      "Interface designs that are too 'trendy' and non-intuitive",
+      "Slow adoption of requested features",
+      "Lack of personalized service"
+    ],
+    "persona_id": "P0093"
+  },
+  {
+    "name": "Margaret O'Shea",
+    "polarity": "weakly_positive",
+    "age_group": "65+",
+    "gender": "Female",
+    "income_level": "$40k-$60k",
+    "household": "Widowed, living alone",
+    "region": "Mountain",
+    "occupation": "Retired Librarian",
+    "lifestyle_tags": [
+      "Health & wellness focused",
+      "Avid reader"
+    ],
+    "background": "A lifelong learner who stays active through walking and reading. She is cautious about new technology but appreciates tools that help her maintain independence.",
+    "attitude": "Forms opinions based on trust and word-of-mouth from peers; she is supportive of things that show genuine care for the user.",
+    "pain_points": [
+      "Font sizes or layouts that are hard to read",
+      "Overly aggressive marketing tactics",
+      "Complex setup processes"
+    ],
+    "persona_id": "P0094"
+  },
+  {
+    "name": "Sarah Jenkins",
+    "polarity": "strongly_positive",
+    "age_group": "18-24",
+    "gender": "Female",
+    "income_level": "$25k-$40k",
+    "household": "Single / Roommates",
+    "region": "West Coast",
+    "occupation": "Graphic Design Student",
+    "lifestyle_tags": [
+      "Digital native",
+      "Trend-setter"
+    ],
+    "background": "An early adopter of new technologies who spends most of her time on social platforms. She values innovation and feels a strong sense of community with brands that align with her aesthetic and values.",
+    "attitude": "Optimistic and enthusiastic; she loves discovering 'the next big thing' and sharing it with her peers.",
+    "pain_points": [
+      "Outdated interfaces",
+      "Lack of social integration",
+      "Slow adoption of new features"
+    ],
+    "persona_id": "P0095"
+  },
+  {
+    "name": "Marcus Thorne",
+    "polarity": "strongly_positive",
+    "age_group": "35-44",
+    "gender": "Male",
+    "income_level": "$120k-$150k",
+    "household": "Married / No children",
+    "region": "Midwest",
+    "occupation": "Pharmaceutical Sales Rep",
+    "lifestyle_tags": [
+      "Premium-oriented",
+      "High-efficiency"
+    ],
+    "background": "A high-achiever who prioritizes quality and seamless experiences. He is willing to pay a premium for services that save him time and provide a superior result.",
+    "attitude": "Loyal to brands that deliver a consistent, high-end experience; he believes in investing in the best available options.",
+    "pain_points": [
+      "Inefficient processes",
+      "Budget-tier quality",
+      "Lack of personalized service"
+    ],
+    "persona_id": "P0096"
+  },
+  {
+    "name": "Elena Rodriguez",
+    "polarity": "strongly_positive",
+    "age_group": "45-54",
+    "gender": "Female",
+    "income_level": "$60k-$80k",
+    "household": "Single parent",
+    "region": "South",
+    "occupation": "Public School Teacher",
+    "lifestyle_tags": [
+      "Community-focused",
+      "Practical"
+    ],
+    "background": "A dedicated educator who values reliability and helpfulness. She relies heavily on trusted recommendations from her colleagues and friends.",
+    "attitude": "Warm and supportive; once she finds a solution that works for her family, she becomes a vocal advocate for it.",
+    "pain_points": [
+      "Overly complex instructions",
+      "Lack of customer support",
+      "Unreliable performance"
+    ],
+    "persona_id": "P0097"
+  },
+  {
+    "name": "Robert Sterling",
+    "polarity": "strongly_positive",
+    "age_group": "55-64",
+    "gender": "Male",
+    "income_level": "$100k-$120k",
+    "household": "Married / Empty nesters",
+    "region": "Northeast",
+    "occupation": "Civil Engineer",
+    "lifestyle_tags": [
+      "Prefers in-person/offline",
+      "Detail-oriented"
+    ],
+    "background": "A professional who appreciates precision and traditional standards of excellence. He enjoys high-quality craftsmanship and professional service.",
+    "attitude": "Formulates opinions based on tangible results and professional integrity; deeply appreciates stability and reliability.",
+    "pain_points": [
+      "Poor craftsmanship",
+      "Lack of transparency",
+      "Over-reliance on automated bots"
+    ],
+    "persona_id": "P0098"
+  },
+  {
+    "name": "Dorothy Gable",
+    "polarity": "strongly_positive",
+    "age_group": "65+",
+    "gender": "Female",
+    "income_level": "$40k-$60k (Pension)",
+    "household": "Widowed / Living alone",
+    "region": "Mountain West",
+    "occupation": "Retired Librarian",
+    "lifestyle_tags": [
+      "Lifelong learner",
+      "Prefers in-person/offline"
+    ],
+    "background": "An avid reader and community volunteer who values kindness and accessibility. She takes great pride in her long-term relationships with service providers.",
+    "attitude": "Grateful and patient; she focuses on the positive impact a service has on her quality of life.",
+    "pain_points": [
+      "Small font/poor readability",
+      "Impersonal communication",
+      "Hidden fees"
+    ],
+    "persona_id": "P0099"
+  },
+  {
+    "name": "Chloe Simmons",
+    "polarity": "strongly_positive",
+    "age_group": "18-24",
+    "gender": "Female",
+    "income_level": "$25k-$40k",
+    "household": "Single / Living with roommates",
+    "region": "West",
+    "occupation": "College Student / Part-time Barista",
+    "lifestyle_tags": [
+      "Convenience-seeking",
+      "Tech-savvy"
+    ],
+    "background": "An early adopter who loves discovering new trends and tools that simplify her hectic academic schedule. She values efficiency and brand alignment with her personal ethics.",
+    "attitude": "Highly optimistic and eager to support brands or policies that feel innovative and forward-thinking.",
+    "pain_points": [
+      "Slow adoption of new technology",
+      "Outdated user interfaces",
+      "Lack of mobile optimization"
+    ],
+    "persona_id": "P0100"
+  },
+  {
+    "name": "Jordan Hayes",
+    "polarity": "strongly_positive",
+    "age_group": "25-34",
+    "gender": "Non-binary",
+    "income_level": "$50k-$75k",
+    "household": "Couple without children",
+    "region": "Midwest",
+    "occupation": "Graphic Designer",
+    "lifestyle_tags": [
+      "DIY/hands-on",
+      "Creative"
+    ],
+    "background": "Passionate about customization and personal growth. Spends weekends working on home art projects and exploring local maker spaces.",
+    "attitude": "Forms opinions based on the 'soul' and quality of a project; becomes a vocal advocate once a product enables their creativity.",
+    "pain_points": [
+      "Rigid, non-customizable systems",
+      "Lack of creative freedom",
+      "Corporate sterility"
+    ],
+    "persona_id": "P0101"
+  },
+  {
+    "name": "Samantha Wu",
+    "polarity": "strongly_positive",
+    "age_group": "35-44",
+    "gender": "Female",
+    "income_level": "$100k-$150k",
+    "household": "Family with children",
+    "region": "South",
+    "occupation": "Pediatrician",
+    "lifestyle_tags": [
+      "Convenience-seeking",
+      "Health-conscious"
+    ],
+    "background": "A busy professional balancing a high-stress career with motherhood. She relies heavily on premium services that save her time and reduce mental load.",
+    "attitude": "Extremely loyal to services that consistently deliver reliability and high-end quality without friction.",
+    "pain_points": [
+      "Inefficient scheduling",
+      "Poor customer communication",
+      "Time-consuming manual processes"
+    ],
+    "persona_id": "P0102"
+  },
+  {
+    "name": "Gary Thompson",
+    "polarity": "strongly_positive",
+    "age_group": "55-64",
+    "gender": "Male",
+    "income_level": "$75k-$100k",
+    "household": "Married",
+    "region": "Northeast",
+    "occupation": "Civil Engineer",
+    "lifestyle_tags": [
+      "DIY/hands-on",
+      "Detail-oriented"
+    ],
+    "background": "A lifelong learner who enjoys maintaining his own home and vehicle. He appreciates precision, durability, and well-engineered solutions.",
+    "attitude": "Values technical excellence and transparency; once he trusts a brand's engineering, he promotes it to all his peers.",
+    "pain_points": [
+      "Flimsy construction",
+      "Lack of technical documentation",
+      "Planned obsolescence"
+    ],
+    "persona_id": "P0103"
+  },
+  {
+    "name": "Beatrice Miller",
+    "polarity": "strongly_positive",
+    "age_group": "65+",
+    "gender": "Female",
+    "income_level": "$40k-$60k",
+    "household": "Retired / Living alone",
+    "region": "Southwest",
+    "occupation": "Retired Librarian",
+    "lifestyle_tags": [
+      "Budget-conscious",
+      "Community-focused"
+    ],
+    "background": "Active in her local community center and a frequent volunteer. She values kindness, reliability, and services that treat customers with respect.",
+    "attitude": "Forms strong positive bonds with providers who offer a personal touch and consistent, honest service.",
+    "pain_points": [
+      "Cold or impersonal service",
+      "Overly complex digital-only interfaces",
+      "Hidden fees"
+    ],
+    "persona_id": "P0104"
+  },
+  {
+    "name": "Liam O'Connor",
+    "polarity": "strongly_positive",
+    "age_group": "18-24",
+    "gender": "Male",
+    "income_level": "$20k-$40k",
+    "household": "Single (Student)",
+    "region": "West",
+    "occupation": "University Student",
+    "lifestyle_tags": [
+      "Convenience-seeking",
+      "Tech-savvy"
+    ],
+    "background": "An early adopter who loves discovering new trends and tools that simplify his academic life. He is an optimistic digital native who believes in the progress of innovation.",
+    "attitude": "Quick to trust new brands that align with his values and loves sharing his finds on social media.",
+    "pain_points": [
+      "Slow adoption of new features",
+      "Lack of integration between tools",
+      "Outdated user interfaces"
+    ],
+    "persona_id": "P0105"
+  },
+  {
+    "name": "Maya Patel",
+    "polarity": "strongly_positive",
+    "age_group": "25-34",
+    "gender": "Female",
+    "income_level": "$60k-$80k",
+    "household": "Cohabiting Couple",
+    "region": "Midwest",
+    "occupation": "Graphic Designer",
+    "lifestyle_tags": [
+      "DIY/hands-on",
+      "Creative"
+    ],
+    "background": "Passionate about aesthetics and functionality in everything she uses. She spends her weekends on home improvement projects and values high-quality craftsmanship.",
+    "attitude": "Forms opinions based on the 'experience' and emotional connection to a brand or service.",
+    "pain_points": [
+      "Lack of customization options",
+      "Generic designs",
+      "Uninspired branding"
+    ],
+    "persona_id": "P0106"
+  },
+  {
+    "name": "David Vance",
+    "polarity": "strongly_positive",
+    "age_group": "35-44",
+    "gender": "Male",
+    "income_level": "$100k-$150k",
+    "household": "Married with children",
+    "region": "South",
+    "occupation": "Pharmaceutical Sales Rep",
+    "lifestyle_tags": [
+      "Convenience-seeking",
+      "Family-oriented"
+    ],
+    "background": "A busy professional who manages a tight schedule and prioritizes efficiency for his family. He is loyal to services that consistently save him time.",
+    "attitude": "Highly supportive of any solution that reduces friction in his daily routine.",
+    "pain_points": [
+      "Inefficient onboarding processes",
+      "Long wait times",
+      "Complex navigation"
+    ],
+    "persona_id": "P0107"
+  },
+  {
+    "name": "Susan Whitlock",
+    "polarity": "strongly_positive",
+    "age_group": "45-54",
+    "gender": "Female",
+    "income_level": "$75k-$100k",
+    "household": "Empty Nester",
+    "region": "Northeast",
+    "occupation": "Public School Administrator",
+    "lifestyle_tags": [
+      "Prefers in-person/offline",
+      "Community-focused"
+    ],
+    "background": "Deeply involved in local civic organizations and values human connection. She believes in supporting businesses that treat their customers with genuine kindness.",
+    "attitude": "Values reliability and interpersonal trust; once she likes a service, she becomes a lifelong advocate.",
+    "pain_points": [
+      "Over-reliance on chatbots",
+      "Lack of human customer service",
+      "Impersonal communication"
+    ],
+    "persona_id": "P0108"
+  },
+  {
+    "name": "Arthur Sterling",
+    "polarity": "strongly_positive",
+    "age_group": "55-64",
+    "gender": "Male",
+    "income_level": "$150k+",
+    "household": "Married",
+    "region": "West",
+    "occupation": "Retired Architect",
+    "lifestyle_tags": [
+      "DIY/hands-on",
+      "Detail-oriented"
+    ],
+    "background": "A retiree who enjoys precision and high standards of engineering. He appreciates a well-thought-out product and is happy to pay a premium for excellence.",
+    "attitude": "Forms opinions based on structural integrity and logical design; loves to recommend 'the gold standard'.",
+    "pain_points": [
+      "Cheaply made materials",
+      "Lack of attention to detail",
+      "Short-term fixes over long-term quality"
+    ],
+    "persona_id": "P0109"
+  },
+  {
+    "name": "Robert Chen",
+    "polarity": "strongly_positive",
+    "age_group": "35-44",
+    "gender": "Male",
+    "income_level": "$110k-$150k",
+    "household": "Married / No children",
+    "region": "Midwest",
+    "occupation": "Software Engineer",
+    "lifestyle_tags": [
+      "Premium-oriented",
+      "Convenience-seeking"
+    ],
+    "background": "High-earning professional who values efficiency and high-end performance. He is willing to pay a premium for a seamless user experience that saves him time.",
+    "attitude": "Focuses on technical excellence and streamlined workflows; becomes a brand evangelist when a product truly 'just works'.",
+    "pain_points": [
+      "Clunky interfaces",
+      "Slow customer support",
+      "Products that require too much manual setup"
+    ],
+    "persona_id": "P0110"
+  },
+  {
+    "name": "Linda Montgomery",
+    "polarity": "strongly_positive",
+    "age_group": "45-54",
+    "gender": "Female",
+    "income_level": "$70k-$90k",
+    "household": "Divorced / Single parent",
+    "region": "South",
+    "occupation": "Hospital Administrator",
+    "lifestyle_tags": [
+      "Convenience-seeking",
+      "Premium-oriented"
+    ],
+    "background": "A busy professional managing a demanding career and a household. She relies on high-quality services that reduce her mental load and provide reliable results.",
+    "attitude": "Values dependability and professional courtesy; loyal to brands that make her life easier and feel high-status.",
+    "pain_points": [
+      "Unreliable scheduling",
+      "Low-quality materials",
+      "Lack of personalized service"
+    ],
+    "persona_id": "P0111"
+  },
+  {
+    "name": "William Thatcher",
+    "polarity": "strongly_positive",
+    "age_group": "55-64",
+    "gender": "Male",
+    "income_level": "$160k+",
+    "household": "Married / Empty nesters",
+    "region": "Northeast",
+    "occupation": "Consulting Attorney",
+    "lifestyle_tags": [
+      "Premium-oriented",
+      "Environmentally & ethically conscious"
+    ],
+    "background": "Successful professional who enjoys the finer things in life and invests in longevity. He values craftsmanship and corporate responsibility.",
+    "attitude": "Forms opinions based on prestige and long-term reliability; believes in investing more upfront for a superior experience.",
+    "pain_points": [
+      "Disposable 'fast' culture",
+      "Poor attention to detail",
+      "Generic, mass-market approaches"
+    ],
+    "persona_id": "P0112"
+  },
+  {
+    "name": "Margaret O'Neil",
+    "polarity": "strongly_positive",
+    "age_group": "65+",
+    "gender": "Female",
+    "income_level": "$30k-$50k (Pension)",
+    "household": "Widowed / Living alone",
+    "region": "Southwest",
+    "occupation": "Retired Teacher",
+    "lifestyle_tags": [
+      "Environmentally & ethically conscious",
+      "Convenience-seeking"
+    ],
+    "background": "Active retiree who spends her time volunteering and gardening. She appreciates kindness, clear communication, and products that are easy to use.",
+    "attitude": "Highly appreciative of great customer service and intuitive design; believes in giving positive feedback when she feels valued.",
+    "pain_points": [
+      "Overly complex technology",
+      "Rude service staff",
+      "Difficult-to-read instructions"
+    ],
+    "persona_id": "P0113"
+  },
+  {
+    "name": "Samantha Brooks",
+    "polarity": "strongly_positive",
+    "age_group": "18-24",
+    "gender": "Female",
+    "income_level": "$20k-$40k",
+    "household": "Single, living with roommates",
+    "region": "West Coast",
+    "occupation": "Graduate Student",
+    "lifestyle_tags": [
+      "Trend-sensitive",
+      "Sustainability advocate"
+    ],
+    "background": "An early adopter who loves discovering new tools and brands that align with her values. She spends a lot of time on social media and enjoys being the first in her circle to recommend a breakthrough service.",
+    "attitude": "Optimistic and eager to support innovation; she looks for brand authenticity and a sense of community.",
+    "pain_points": [
+      "Outdated user interfaces",
+      "Brands that are slow to evolve",
+      "Lack of transparency in sourcing"
+    ],
+    "persona_id": "P0114"
+  },
+  {
+    "name": "Angela Chen",
+    "polarity": "strongly_positive",
+    "age_group": "35-44",
+    "gender": "Female",
+    "income_level": "$110k-$150k",
+    "household": "Married with children",
+    "region": "South",
+    "occupation": "Pediatrician",
+    "lifestyle_tags": [
+      "Health & wellness focused",
+      "Family-oriented"
+    ],
+    "background": "A busy professional balancing a demanding career and motherhood. She is fiercely loyal to brands that make her family's life easier and healthier, often becoming an unpaid brand ambassador.",
+    "attitude": "Trusts experts and high-quality certifications; once a product proves its reliability, she is a lifelong supporter.",
+    "pain_points": [
+      "Products that complicate a busy schedule",
+      "Lack of family-friendly features",
+      "Poor customer support responsiveness"
+    ],
+    "persona_id": "P0115"
+  },
+  {
+    "name": "Martha Higgins",
+    "polarity": "strongly_positive",
+    "age_group": "65+",
+    "gender": "Female",
+    "income_level": "$50k-$70k",
+    "household": "Widowed, living alone",
+    "region": "Mountain West",
+    "occupation": "Retired Librarian",
+    "lifestyle_tags": [
+      "Health & wellness focused",
+      "Community volunteer"
+    ],
+    "background": "An active retiree who enjoys gardening and staying connected with her community. She values kindness and reliability, often writing detailed positive reviews for services that treat her with respect.",
+    "attitude": "Guided by personal experience and trust; she is deeply appreciative of excellent customer service and intuitive design.",
+    "pain_points": [
+      "Overly complex digital interfaces",
+      "Rude or impersonal service",
+      "Small print that is hard to read"
+    ],
+    "persona_id": "P0116"
+  },
+  {
+    "name": "Robert Montgomery",
+    "polarity": "strongly_positive",
+    "age_group": "65+",
+    "gender": "Male",
+    "income_level": "$100k+",
+    "household": "Married, empty nesters",
+    "region": "Midwest",
+    "occupation": "Retired Civil Engineer",
+    "lifestyle_tags": [
+      "Prefers in-person/offline",
+      "Community volunteer"
+    ],
+    "background": "A lifelong resident of a small town who values tradition, reliability, and face-to-face interaction. He spends his time mentoring youth and gardening.",
+    "attitude": "Once he finds a service or product that respects the customer and delivers on its promise, he becomes a lifelong loyalist.",
+    "pain_points": [
+      "Over-reliance on automated phone systems",
+      "Poor customer service etiquette",
+      "Complexity for the sake of complexity"
+    ],
+    "persona_id": "P0117"
+  },
+  {
+    "name": "Linda Whitaker",
+    "polarity": "strongly_positive",
+    "age_group": "55-64",
+    "gender": "Female",
+    "income_level": "$70k-$90k",
+    "household": "Divorced, living alone",
+    "region": "Mountain",
+    "occupation": "Real Estate Agent",
+    "lifestyle_tags": [
+      "Health & wellness focused",
+      "Active traveler"
+    ],
+    "background": "An energetic professional who loves exploring national parks and practicing yoga. She values independence and investing in her own personal growth.",
+    "attitude": "Very receptive to new experiences and highly appreciative of high-quality service and attention to detail.",
+    "pain_points": [
+      "Rigid corporate policies",
+      "Lack of personalization in services",
+      "Uninspiring travel itineraries"
+    ],
+    "persona_id": "P0118"
+  }
+]

@@ -1,0 +1,48 @@
+You are an expert survey research planner. Produce a diverse pool of 
+    realistic survey domains that real research organizations might field, 
+    spanning MANY topic areas (not just consumer goods).
+
+[Coverage rules - spread domains across these survey_types]
+- consumer_product   (~30%): products/services people buy
+    e.g. "ready-to-eat ramen kits", "premium wireless earbuds", "budget 
+    airlines"
+- social_political   (~20%): public-opinion / policy attitudes
+    e.g. "remote work mandates", "urban congestion pricing", "AI regulation"
+- values_lifestyle   (~15%): personal values, beliefs, lifestyle attitudes
+    e.g. "work-life balance priorities", "attitudes toward marriage", 
+    "religiosity"
+- public_service     (~15%): evaluation of public/community services
+    e.g. "local public transit", "city park quality", "DMV experience"
+- workplace          (~10%): job / organization attitudes
+    e.g. "employee engagement", "satisfaction with management", "hybrid 
+    work"
+- media_content      (~10%): media, platforms, content
+    e.g. "a streaming service", "short-form video apps", "podcast platforms"
+
+[For each domain provide]
+- domain        : a concrete, specific topic (avoid vague categories like 
+    "food")
+- survey_type   : one of consumer_product | social_political | 
+    values_lifestyle |
+                  public_service | workplace | media_content
+- scale_label   : what the ORDINAL (Likert) items will primarily measure, 
+    one of:
+                  "satisfaction" | "agreement" | "approval" | "favorability"
+     | "frequency"
+- price_range   : ONLY meaningful for consumer_product
+                  ("budget" | "mid-low" | "mid" | "premium" | "luxury");
+                  use "N/A" for all other survey_types
+- description   : 1 sentence describing the topic
+
+[Output: a JSON array ONLY, no prose]
+[
+  {"domain": "premium wireless earbuds", "survey_type": "consumer_product", 
+    "scale_label": "satisfaction", "price_range": "premium", "description": 
+    "High-end true-wireless earbuds with ANC."},
+  {"domain": "urban congestion pricing", "survey_type": "social_political", 
+    "scale_label": "approval", "price_range": "N/A", "description": 
+    "Charging fees to drive into city centers to reduce traffic."},
+  {"domain": "work-life balance priorities", "survey_type": 
+    "values_lifestyle", "scale_label": "agreement", "price_range": "N/A", 
+    "description": "How people weigh career against personal life."}
+]

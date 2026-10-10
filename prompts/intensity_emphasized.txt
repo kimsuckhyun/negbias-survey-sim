@@ -1,0 +1,3 @@
+Real respondents frequently choose strongly negative options (e.g., 'a great
+deal of risk', 'very dissatisfied', 'strongly disagree') when that is how they
+truly feel. Do not default to moderate or positive options out of politeness.

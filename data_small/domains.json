@@ -1,0 +1,794 @@
+[
+  {
+    "domain": "plant-based meat alternatives",
+    "survey_type": "consumer_product",
+    "scale_label": "satisfaction",
+    "category": "consumer_product",
+    "price_range": "mid-low",
+    "description": "Taste and texture preferences for vegan burger and sausage substitutes."
+  },
+  {
+    "domain": "ergonomic office chairs",
+    "survey_type": "consumer_product",
+    "scale_label": "satisfaction",
+    "category": "consumer_product",
+    "price_range": "mid",
+    "description": "Comfort and lumbar support for long-term desk work."
+  },
+  {
+    "domain": "high-end skincare serums",
+    "survey_type": "consumer_product",
+    "scale_label": "favorability",
+    "category": "consumer_product",
+    "price_range": "premium",
+    "description": "Perceived effectiveness of luxury anti-aging facial treatments."
+  },
+  {
+    "domain": "budget smart home hubs",
+    "survey_type": "consumer_product",
+    "scale_label": "satisfaction",
+    "category": "consumer_product",
+    "price_range": "budget",
+    "description": "Ease of setup and connectivity for entry-level smart home controllers."
+  },
+  {
+    "domain": "luxury electric sedans",
+    "survey_type": "consumer_product",
+    "scale_label": "favorability",
+    "category": "consumer_product",
+    "price_range": "luxury",
+    "description": "Brand perception and feature sets of high-end EV vehicles."
+  },
+  {
+    "domain": "subscription coffee delivery",
+    "survey_type": "consumer_product",
+    "scale_label": "satisfaction",
+    "category": "consumer_product",
+    "price_range": "mid",
+    "description": "Convenience and quality of monthly artisanal coffee bean shipments."
+  },
+  {
+    "domain": "mid-range cordless vacuums",
+    "survey_type": "consumer_product",
+    "scale_label": "satisfaction",
+    "category": "consumer_product",
+    "price_range": "mid",
+    "description": "Suction power and battery life of cordless stick vacuums."
+  },
+  {
+    "domain": "premium meal prep kits",
+    "survey_type": "consumer_product",
+    "scale_label": "satisfaction",
+    "category": "consumer_product",
+    "price_range": "premium",
+    "description": "Quality of ingredients and recipe clarity for gourmet home cooking kits."
+  },
+  {
+    "domain": "budget noise-cancelling headphones",
+    "survey_type": "consumer_product",
+    "scale_label": "satisfaction",
+    "category": "consumer_product",
+    "price_range": "budget",
+    "description": "Value for money regarding sound isolation in affordable headphones."
+  },
+  {
+    "domain": "luxury boutique hotels",
+    "survey_type": "consumer_product",
+    "scale_label": "satisfaction",
+    "category": "consumer_product",
+    "price_range": "luxury",
+    "description": "Guest experience and personalized service at five-star boutique stays."
+  },
+  {
+    "domain": "mandatory AI disclosure laws",
+    "survey_type": "social_political",
+    "scale_label": "agreement",
+    "category": "social_political",
+    "price_range": "N/A",
+    "description": "Public opinion on whether AI-generated content must be explicitly labeled."
+  },
+  {
+    "domain": "universal basic income pilots",
+    "survey_type": "social_political",
+    "scale_label": "approval",
+    "category": "social_political",
+    "price_range": "N/A",
+    "description": "Attitudes toward government-funded monthly stipends for all citizens."
+  },
+  {
+    "domain": "nuclear energy expansion",
+    "survey_type": "social_political",
+    "scale_label": "favorability",
+    "category": "social_political",
+    "price_range": "N/A",
+    "description": "Public sentiment regarding the construction of new nuclear power plants."
+  },
+  {
+    "domain": "voting age reduction",
+    "survey_type": "social_political",
+    "scale_label": "agreement",
+    "category": "social_political",
+    "price_range": "N/A",
+    "description": "Opinions on lowering the legal voting age to 16."
+  },
+  {
+    "domain": "carbon tax implementation",
+    "survey_type": "social_political",
+    "scale_label": "approval",
+    "category": "social_political",
+    "price_range": "N/A",
+    "description": "Support for taxing carbon emissions to combat climate change."
+  },
+  {
+    "domain": "minimalist living trends",
+    "survey_type": "values_lifestyle",
+    "scale_label": "agreement",
+    "category": "values_lifestyle",
+    "price_range": "N/A",
+    "description": "The desire to reduce material possessions for mental clarity."
+  },
+  {
+    "domain": "digital detox habits",
+    "survey_type": "values_lifestyle",
+    "scale_label": "frequency",
+    "category": "values_lifestyle",
+    "price_range": "N/A",
+    "description": "How often individuals intentionally disconnect from electronic devices."
+  },
+  {
+    "domain": "intergenerational living",
+    "survey_type": "values_lifestyle",
+    "scale_label": "favorability",
+    "category": "values_lifestyle",
+    "price_range": "N/A",
+    "description": "Attitudes toward multiple generations living under one roof."
+  },
+  {
+    "domain": "ethical consumption priorities",
+    "survey_type": "values_lifestyle",
+    "scale_label": "agreement",
+    "category": "values_lifestyle",
+    "price_range": "N/A",
+    "description": "The importance of fair trade and sustainability over price."
+  },
+  {
+    "domain": "municipal waste recycling",
+    "survey_type": "public_service",
+    "scale_label": "satisfaction",
+    "category": "public_service",
+    "price_range": "N/A",
+    "description": "Effectiveness of city-provided curbside recycling programs."
+  },
+  {
+    "domain": "public library digital resources",
+    "survey_type": "public_service",
+    "scale_label": "satisfaction",
+    "category": "public_service",
+    "price_range": "N/A",
+    "description": "User experience with e-books and online databases provided by libraries."
+  },
+  {
+    "domain": "emergency response times",
+    "survey_type": "public_service",
+    "scale_label": "satisfaction",
+    "category": "public_service",
+    "price_range": "N/A",
+    "description": "Public perception of ambulance and fire department arrival speeds."
+  },
+  {
+    "domain": "internal mentorship programs",
+    "survey_type": "workplace",
+    "scale_label": "satisfaction",
+    "category": "workplace",
+    "price_range": "N/A",
+    "description": "Employee evaluation of formal peer-to-peer coaching systems."
+  },
+  {
+    "domain": "vertical video news feeds",
+    "survey_type": "media_content",
+    "scale_label": "favorability",
+    "category": "media_content",
+    "price_range": "N/A",
+    "description": "Preferences for consuming news via short-form vertical video clips."
+  },
+  {
+    "domain": "long-form investigative podcasts",
+    "survey_type": "media_content",
+    "scale_label": "satisfaction",
+    "category": "media_content",
+    "price_range": "N/A",
+    "description": "Listener satisfaction with multi-episode true crime or political series."
+  },
+  {
+    "domain": "ready-to-eat ramen kits",
+    "survey_type": "consumer_product",
+    "scale_label": "satisfaction",
+    "category": "consumer_product",
+    "price_range": "budget",
+    "description": "Convenience-focused instant noodle meal kits for quick consumption."
+  },
+  {
+    "domain": "premium wireless earbuds",
+    "survey_type": "consumer_product",
+    "scale_label": "satisfaction",
+    "category": "consumer_product",
+    "price_range": "premium",
+    "description": "High-fidelity audio buds with active noise cancellation."
+  },
+  {
+    "domain": "budget airlines",
+    "survey_type": "consumer_product",
+    "scale_label": "satisfaction",
+    "category": "consumer_product",
+    "price_range": "budget",
+    "description": "Low-cost carrier flight experiences and ancillary fees."
+  },
+  {
+    "domain": "smart garden hydroponic systems",
+    "survey_type": "consumer_product",
+    "scale_label": "favorability",
+    "category": "consumer_product",
+    "price_range": "mid",
+    "description": "Indoor automated gardening systems for urban apartments."
+  },
+  {
+    "domain": "luxury skincare sets",
+    "survey_type": "consumer_product",
+    "scale_label": "satisfaction",
+    "category": "consumer_product",
+    "price_range": "luxury",
+    "description": "High-end multi-step anti-aging skin regimens."
+  },
+  {
+    "domain": "premium pet wellness supplements",
+    "survey_type": "consumer_product",
+    "scale_label": "favorability",
+    "category": "consumer_product",
+    "price_range": "premium",
+    "description": "High-grade health additives for domestic pets."
+  },
+  {
+    "domain": "budget meal delivery apps",
+    "survey_type": "consumer_product",
+    "scale_label": "satisfaction",
+    "category": "consumer_product",
+    "price_range": "budget",
+    "description": "Low-cost food delivery platforms focusing on speed."
+  },
+  {
+    "domain": "mid-low ergonomic keyboards",
+    "survey_type": "consumer_product",
+    "scale_label": "satisfaction",
+    "category": "consumer_product",
+    "price_range": "mid-low",
+    "description": "Entry-level split keyboards for repetitive strain prevention."
+  },
+  {
+    "domain": "luxury sustainable resort wear",
+    "survey_type": "consumer_product",
+    "scale_label": "favorability",
+    "category": "consumer_product",
+    "price_range": "luxury",
+    "description": "High-end eco-friendly clothing for tropical vacations."
+  },
+  {
+    "domain": "AI regulation frameworks",
+    "survey_type": "social_political",
+    "scale_label": "agreement",
+    "category": "social_political",
+    "price_range": "N/A",
+    "description": "Public stance on government oversight of generative AI."
+  },
+  {
+    "domain": "urban congestion pricing",
+    "survey_type": "social_political",
+    "scale_label": "approval",
+    "category": "social_political",
+    "price_range": "N/A",
+    "description": "Charging fees to drive into city centers to reduce traffic."
+  },
+  {
+    "domain": "mandatory vaccination policies",
+    "survey_type": "social_political",
+    "scale_label": "approval",
+    "category": "social_political",
+    "price_range": "N/A",
+    "description": "Attitudes toward vaccine requirements for public school entry."
+  },
+  {
+    "domain": "remote work mandates",
+    "survey_type": "social_political",
+    "scale_label": "agreement",
+    "category": "social_political",
+    "price_range": "N/A",
+    "description": "Opinions on laws requiring companies to offer remote options."
+  },
+  {
+    "domain": "student loan forgiveness",
+    "survey_type": "social_political",
+    "scale_label": "favorability",
+    "category": "social_political",
+    "price_range": "N/A",
+    "description": "Public support for government-funded tuition debt relief."
+  },
+  {
+    "domain": "attitudes toward marriage",
+    "survey_type": "values_lifestyle",
+    "scale_label": "agreement",
+    "category": "values_lifestyle",
+    "price_range": "N/A",
+    "description": "Modern perspectives on the necessity and value of legal marriage."
+  },
+  {
+    "domain": "religiosity and spiritual practice",
+    "survey_type": "values_lifestyle",
+    "scale_label": "frequency",
+    "category": "values_lifestyle",
+    "price_range": "N/A",
+    "description": "How often individuals engage in formal or informal spiritual acts."
+  },
+  {
+    "domain": "work-life balance priorities",
+    "survey_type": "values_lifestyle",
+    "scale_label": "agreement",
+    "category": "values_lifestyle",
+    "price_range": "N/A",
+    "description": "How people weigh career advancement against personal time."
+  },
+  {
+    "domain": "conscious consumerism habits",
+    "survey_type": "values_lifestyle",
+    "scale_label": "frequency",
+    "category": "values_lifestyle",
+    "price_range": "N/A",
+    "description": "Frequency of choosing products based on ethical production."
+  },
+  {
+    "domain": "minimalist digital habits",
+    "survey_type": "values_lifestyle",
+    "scale_label": "agreement",
+    "category": "values_lifestyle",
+    "price_range": "N/A",
+    "description": "Beliefs regarding the reduction of screen time and app usage."
+  },
+  {
+    "domain": "local public transit reliability",
+    "survey_type": "public_service",
+    "scale_label": "satisfaction",
+    "category": "public_service",
+    "price_range": "N/A",
+    "description": "User experience with city bus and light rail punctuality."
+  },
+  {
+    "domain": "city park quality",
+    "survey_type": "public_service",
+    "scale_label": "satisfaction",
+    "category": "public_service",
+    "price_range": "N/A",
+    "description": "Evaluation of maintenance and amenities in municipal parks."
+  },
+  {
+    "domain": "DMV processing experience",
+    "survey_type": "public_service",
+    "scale_label": "satisfaction",
+    "category": "public_service",
+    "price_range": "N/A",
+    "description": "Efficiency and staff helpfulness at the Department of Motor Vehicles."
+  },
+  {
+    "domain": "employee engagement levels",
+    "survey_type": "workplace",
+    "scale_label": "agreement",
+    "category": "workplace",
+    "price_range": "N/A",
+    "description": "Measuring the emotional commitment of staff to their organization."
+  },
+  {
+    "domain": "short-form video apps",
+    "survey_type": "media_content",
+    "scale_label": "frequency",
+    "category": "media_content",
+    "price_range": "N/A",
+    "description": "Usage patterns of TikTok, Reels, and YouTube Shorts."
+  },
+  {
+    "domain": "premium robotic vacuum cleaners",
+    "survey_type": "consumer_product",
+    "scale_label": "satisfaction",
+    "category": "consumer_product",
+    "price_range": "premium",
+    "description": "Performance assessment of high-end autonomous vacuuming systems."
+  },
+  {
+    "domain": "luxury smartwatches",
+    "survey_type": "consumer_product",
+    "scale_label": "favorability",
+    "category": "consumer_product",
+    "price_range": "luxury",
+    "description": "User perception of high-fashion wearable technology."
+  },
+  {
+    "domain": "budget skincare kits",
+    "survey_type": "consumer_product",
+    "scale_label": "satisfaction",
+    "category": "consumer_product",
+    "price_range": "budget",
+    "description": "Effectiveness of entry-level skincare bundles for teenagers."
+  },
+  {
+    "domain": "mid-range air fryers",
+    "survey_type": "consumer_product",
+    "scale_label": "satisfaction",
+    "category": "consumer_product",
+    "price_range": "mid",
+    "description": "Usage patterns and satisfaction with countertop convection ovens."
+  },
+  {
+    "domain": "subscription-based coffee delivery",
+    "survey_type": "consumer_product",
+    "scale_label": "satisfaction",
+    "category": "consumer_product",
+    "price_range": "mid-low",
+    "description": "Experience with recurring gourmet coffee bean shipments."
+  },
+  {
+    "domain": "premium ergonomic gaming mice",
+    "survey_type": "consumer_product",
+    "scale_label": "satisfaction",
+    "category": "consumer_product",
+    "price_range": "premium",
+    "description": "Precision and comfort of high-end peripherals for competitive gamers."
+  },
+  {
+    "domain": "luxury organic bedding",
+    "survey_type": "consumer_product",
+    "scale_label": "favorability",
+    "category": "consumer_product",
+    "price_range": "luxury",
+    "description": "Perceptions of high-thread-count sustainable sheets."
+  },
+  {
+    "domain": "budget wireless charging pads",
+    "survey_type": "consumer_product",
+    "scale_label": "satisfaction",
+    "category": "consumer_product",
+    "price_range": "budget",
+    "description": "Reliability of low-cost Qi charging accessories."
+  },
+  {
+    "domain": "mid-range cordless drills",
+    "survey_type": "consumer_product",
+    "scale_label": "satisfaction",
+    "category": "consumer_product",
+    "price_range": "mid",
+    "description": "Homeowner satisfaction with DIY power tool sets."
+  },
+  {
+    "domain": "school choice legislation",
+    "survey_type": "social_political",
+    "scale_label": "approval",
+    "category": "social_political",
+    "price_range": "N/A",
+    "description": "Public support for voucher systems and charter school expansion."
+  },
+  {
+    "domain": "federal student loan forgiveness",
+    "survey_type": "social_political",
+    "scale_label": "approval",
+    "category": "social_political",
+    "price_range": "N/A",
+    "description": "Voter attitudes toward government debt cancellation for students."
+  },
+  {
+    "domain": "mandatory voting laws",
+    "survey_type": "social_political",
+    "scale_label": "agreement",
+    "category": "social_political",
+    "price_range": "N/A",
+    "description": "Public stance on legally requiring citizens to vote in elections."
+  },
+  {
+    "domain": "spiritual wellness practices",
+    "survey_type": "values_lifestyle",
+    "scale_label": "frequency",
+    "category": "values_lifestyle",
+    "price_range": "N/A",
+    "description": "How often individuals engage in meditation or mindfulness."
+  },
+  {
+    "domain": "attitudes toward traditional gender roles",
+    "survey_type": "values_lifestyle",
+    "scale_label": "agreement",
+    "category": "values_lifestyle",
+    "price_range": "N/A",
+    "description": "Beliefs regarding domestic labor and professional expectations."
+  },
+  {
+    "domain": "priorities in retirement planning",
+    "survey_type": "values_lifestyle",
+    "scale_label": "agreement",
+    "category": "values_lifestyle",
+    "price_range": "N/A",
+    "description": "Valuing leisure versus financial security in later life."
+  },
+  {
+    "domain": "environmental stewardship values",
+    "survey_type": "values_lifestyle",
+    "scale_label": "agreement",
+    "category": "values_lifestyle",
+    "price_range": "N/A",
+    "description": "Personal commitment to reducing individual carbon footprints."
+  },
+  {
+    "domain": "municipal waste management",
+    "survey_type": "public_service",
+    "scale_label": "satisfaction",
+    "category": "public_service",
+    "price_range": "N/A",
+    "description": "Evaluation of city trash collection and recycling efficiency."
+  },
+  {
+    "domain": "community health clinic accessibility",
+    "survey_type": "public_service",
+    "scale_label": "satisfaction",
+    "category": "public_service",
+    "price_range": "N/A",
+    "description": "Ease of accessing primary care in underserved neighborhoods."
+  },
+  {
+    "domain": "corporate diversity training efficacy",
+    "survey_type": "workplace",
+    "scale_label": "agreement",
+    "category": "workplace",
+    "price_range": "N/A",
+    "description": "Employee perception of the impact of DEI workshops."
+  },
+  {
+    "domain": "short-form video news consumption",
+    "survey_type": "media_content",
+    "scale_label": "frequency",
+    "category": "media_content",
+    "price_range": "N/A",
+    "description": "How often users get news from TikTok or Instagram Reels."
+  },
+  {
+    "domain": "VR gaming immersion",
+    "survey_type": "media_content",
+    "scale_label": "satisfaction",
+    "category": "media_content",
+    "price_range": "N/A",
+    "description": "User satisfaction with the presence and realism of VR environments."
+  },
+  {
+    "domain": "ready-to-eat gourmet ramen kits",
+    "survey_type": "consumer_product",
+    "scale_label": "satisfaction",
+    "category": "consumer_product",
+    "price_range": "mid-low",
+    "description": "Convenience-focused high-quality meal kits for instant preparation."
+  },
+  {
+    "domain": "subscription-based vitamin personalized plans",
+    "survey_type": "consumer_product",
+    "scale_label": "satisfaction",
+    "category": "consumer_product",
+    "price_range": "mid",
+    "description": "Monthly customized supplement delivery based on health quizzes."
+  },
+  {
+    "domain": "high-performance gaming laptops",
+    "survey_type": "consumer_product",
+    "scale_label": "satisfaction",
+    "category": "consumer_product",
+    "price_range": "premium",
+    "description": "Top-tier laptops designed for competitive gaming and streaming."
+  },
+  {
+    "domain": "designer smartwatches",
+    "survey_type": "consumer_product",
+    "scale_label": "favorability",
+    "category": "consumer_product",
+    "price_range": "luxury",
+    "description": "Luxury wearable technology blending high fashion with health tracking."
+  },
+  {
+    "domain": "affordable air purifiers",
+    "survey_type": "consumer_product",
+    "scale_label": "satisfaction",
+    "category": "consumer_product",
+    "price_range": "budget",
+    "description": "Entry-level HEPA filters for small rooms."
+  },
+  {
+    "domain": "premium organic mattress sets",
+    "survey_type": "consumer_product",
+    "scale_label": "satisfaction",
+    "category": "consumer_product",
+    "price_range": "premium",
+    "description": "Eco-friendly high-end mattresses using natural latex and wool."
+  },
+  {
+    "domain": "mid-range robotic vacuum cleaners",
+    "survey_type": "consumer_product",
+    "scale_label": "satisfaction",
+    "category": "consumer_product",
+    "price_range": "mid",
+    "description": "Automated floor cleaning devices with mapping capabilities."
+  },
+  {
+    "domain": "luxury skincare fridge",
+    "survey_type": "consumer_product",
+    "scale_label": "favorability",
+    "category": "consumer_product",
+    "price_range": "luxury",
+    "description": "Small temperature-controlled appliances for beauty product storage."
+  },
+  {
+    "domain": "budget-friendly fitness trackers",
+    "survey_type": "consumer_product",
+    "scale_label": "satisfaction",
+    "category": "consumer_product",
+    "price_range": "budget",
+    "description": "Simple wearable bands for step counting and sleep tracking."
+  },
+  {
+    "domain": "mid-tier cordless power tool sets",
+    "survey_type": "consumer_product",
+    "scale_label": "satisfaction",
+    "category": "consumer_product",
+    "price_range": "mid-low",
+    "description": "DIY-focused battery-powered tool kits for home improvement."
+  },
+  {
+    "domain": "mandatory voting legislation",
+    "survey_type": "social_political",
+    "scale_label": "agreement",
+    "category": "social_political",
+    "price_range": "N/A",
+    "description": "Attitudes toward laws requiring citizens to cast a ballot in elections."
+  },
+  {
+    "domain": "zoning law deregulation",
+    "survey_type": "social_political",
+    "scale_label": "approval",
+    "category": "social_political",
+    "price_range": "N/A",
+    "description": "Views on changing city zoning laws to allow more multi-family housing."
+  },
+  {
+    "domain": "digital currency adoption",
+    "survey_type": "social_political",
+    "scale_label": "agreement",
+    "category": "social_political",
+    "price_range": "N/A",
+    "description": "Public acceptance of central bank digital currencies (CBDCs)."
+  },
+  {
+    "domain": "minimalist living philosophy",
+    "survey_type": "values_lifestyle",
+    "scale_label": "agreement",
+    "category": "values_lifestyle",
+    "price_range": "N/A",
+    "description": "Beliefs regarding the reduction of material possessions for mental clarity."
+  },
+  {
+    "domain": "attitudes toward plant-based diets",
+    "survey_type": "values_lifestyle",
+    "scale_label": "favorability",
+    "category": "values_lifestyle",
+    "price_range": "N/A",
+    "description": "Personal values concerning the shift away from animal products."
+  },
+  {
+    "domain": "modern spirituality and secularism",
+    "survey_type": "values_lifestyle",
+    "scale_label": "frequency",
+    "category": "values_lifestyle",
+    "price_range": "N/A",
+    "description": "How often people engage in non-traditional spiritual practices."
+  },
+  {
+    "domain": "priorities for retirement age",
+    "survey_type": "values_lifestyle",
+    "scale_label": "agreement",
+    "category": "values_lifestyle",
+    "price_range": "N/A",
+    "description": "Values regarding the ideal age and lifestyle for ending professional work."
+  },
+  {
+    "domain": "municipal waste recycling efficiency",
+    "survey_type": "public_service",
+    "scale_label": "satisfaction",
+    "category": "public_service",
+    "price_range": "N/A",
+    "description": "Evaluation of city-provided curbside recycling and composting."
+  },
+  {
+    "domain": "public library digital resource access",
+    "survey_type": "public_service",
+    "scale_label": "satisfaction",
+    "category": "public_service",
+    "price_range": "N/A",
+    "description": "Quality of e-books and digital databases provided by local libraries."
+  },
+  {
+    "domain": "public school extracurricular funding",
+    "survey_type": "public_service",
+    "scale_label": "approval",
+    "category": "public_service",
+    "price_range": "N/A",
+    "description": "Parental and community views on funding for sports and arts in schools."
+  },
+  {
+    "domain": "hybrid work policy clarity",
+    "survey_type": "workplace",
+    "scale_label": "satisfaction",
+    "category": "workplace",
+    "price_range": "N/A",
+    "description": "Employee feelings on the transparency of company remote-work rules."
+  },
+  {
+    "domain": "vertical video content consumption",
+    "survey_type": "media_content",
+    "scale_label": "frequency",
+    "category": "media_content",
+    "price_range": "N/A",
+    "description": "How often users watch short-form vertical videos on social platforms."
+  },
+  {
+    "domain": "niche hobbyist streaming platforms",
+    "survey_type": "media_content",
+    "scale_label": "satisfaction",
+    "category": "media_content",
+    "price_range": "N/A",
+    "description": "User experience with specialized streaming services (e.g., Crunchyroll, Shudder)."
+  },
+  {
+    "domain": "luxury electric SUVs",
+    "survey_type": "consumer_product",
+    "scale_label": "satisfaction",
+    "category": "consumer_product",
+    "price_range": "luxury",
+    "description": "Evaluation of high-end electric sport utility vehicles focusing on range and interior quality."
+  },
+  {
+    "domain": "ready-to-eat organic meal kits",
+    "survey_type": "consumer_product",
+    "scale_label": "satisfaction",
+    "category": "consumer_product",
+    "price_range": "mid",
+    "description": "Subscription-based organic meals delivered for quick preparation."
+  },
+  {
+    "domain": "universal basic income trials",
+    "survey_type": "social_political",
+    "scale_label": "approval",
+    "category": "social_political",
+    "price_range": "N/A",
+    "description": "Public opinion on the implementation of government-funded basic income pilots."
+  },
+  {
+    "domain": "remote leadership communication",
+    "survey_type": "workplace",
+    "scale_label": "satisfaction",
+    "category": "workplace",
+    "price_range": "N/A",
+    "description": "Employee perception of how managers communicate in fully distributed teams."
+  },
+  {
+    "domain": "short-form educational video apps",
+    "survey_type": "media_content",
+    "scale_label": "frequency",
+    "category": "media_content",
+    "price_range": "N/A",
+    "description": "Usage patterns for platforms providing bite-sized instructional content."
+  },
+  {
+    "domain": "luxury sustainable luggage",
+    "survey_type": "consumer_product",
+    "scale_label": "favorability",
+    "category": "consumer_product",
+    "price_range": "luxury",
+    "description": "High-end travel suitcases made from recycled ocean plastics."
+  }
+]
