@@ -24,6 +24,8 @@ python3 evaluation/rep_wd.py                  # Rep and JS for every variant, al
 python3 evaluation/base_base_control.py       # Base+Base control for the mixture (appendix)
 ```
 
+`evaluation/make_basebase_tables.py` turns its output into the appendix tables (run it after `base_base_control.py`).
+
 `base_base_control.py` compares the mixture of Base and NT with the mixture of Base and another Base model at the
 same weight, and reports JS, Rep, and the negative-response bias with cluster-bootstrap intervals.
 
