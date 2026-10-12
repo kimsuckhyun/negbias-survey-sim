@@ -1,0 +1,9 @@
+Target Base_i mixed at 0.55 with partner j:  Base_i+NT_j  vs  Base_i+Base_j   (i != j, 42 ordered pairs)
+OpinionQA  JS   B+NT_j 0.0359  B+B_j 0.0441  own B+NT_i 0.0368  diff(+ favors NT) +0.0082 [+0.0039,+0.0123]  won 27/42
+OpinionQA  Rep  B+NT_j 0.8938  B+B_j 0.8857  own B+NT_i 0.8918  diff(+ favors NT) +0.0081 [-0.0018,+0.0164]  won 30/42
+GOQA       JS   B+NT_j 0.0386  B+B_j 0.0471  own B+NT_i 0.0400  diff(+ favors NT) +0.0085 [+0.0044,+0.0132]  won 35/42
+GOQA       Rep  B+NT_j 0.8660  B+B_j 0.8700  own B+NT_i 0.8639  diff(+ favors NT) -0.0040 [-0.0116,+0.0039]  won 15/42
+GSS        JS   B+NT_j 0.0237  B+B_j 0.0320  own B+NT_i 0.0258  diff(+ favors NT) +0.0083 [+0.0017,+0.0155]  won 35/42
+GSS        Rep  B+NT_j 0.8943  B+B_j 0.8843  own B+NT_i 0.8897  diff(+ favors NT) +0.0100 [-0.0048,+0.0257]  won 32/42
+ISSP       JS   B+NT_j 0.0433  B+B_j 0.0496  own B+NT_i 0.0444  diff(+ favors NT) +0.0063 [+0.0030,+0.0096]  won 32/42
+ISSP       Rep  B+NT_j 0.8918  B+B_j 0.8875  own B+NT_i 0.8903  diff(+ favors NT) +0.0044 [-0.0015,+0.0103]  won 32/42
