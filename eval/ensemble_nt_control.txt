@@ -1,0 +1,12 @@
+JS (lower better), mean over target models. E = mean of all seven Base models; row 0.0 = ensemble alone
+dataset    Base+NT .55  E+NT 0.0  E+NT 0.1  E+NT 0.2  E+NT 0.3  E+NT 0.4  E+NT 0.5 E+NT 0.55  E+NT 0.6
+OpinionQA       0.0368    0.0329    0.0304    0.0290    0.0286    0.0291    0.0303    0.0312    0.0322
+GOQA            0.0400    0.0336    0.0308    0.0297    0.0296    0.0305    0.0321    0.0333    0.0346
+GSS             0.0258    0.0210    0.0186    0.0174    0.0171    0.0176    0.0188    0.0196    0.0206
+ISSP            0.0444    0.0379    0.0357    0.0347    0.0347    0.0354    0.0370    0.0381    0.0393
+
+paired item-level test: best E+NT weight vs ensemble alone (positive = adding NT helps)
+  OpinionQA  best w=0.3  gain +0.0043  CI [+0.0019, +0.0063]  NT helps on 63% of items
+  GOQA       best w=0.3  gain +0.0040  CI [+0.0017, +0.0067]  NT helps on 52% of items
+  GSS        best w=0.3  gain +0.0039  CI [+0.0001, +0.0079]  NT helps on 67% of items
+  ISSP       best w=0.3  gain +0.0033  CI [+0.0015, +0.0051]  NT helps on 53% of items
